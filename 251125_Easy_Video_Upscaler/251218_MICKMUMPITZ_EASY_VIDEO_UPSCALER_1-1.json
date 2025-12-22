@@ -1,7 +1,7 @@
 {
   "id": "c5fb4007-78a4-4f9e-87cd-9c60793a9140",
   "revision": 0,
-  "last_node_id": 450,
+  "last_node_id": 451,
   "last_link_id": 723,
   "nodes": [
     {
@@ -18,7 +18,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 73,
+      "order": 74,
       "mode": 0,
       "inputs": [
         {
@@ -59,7 +59,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 85,
+      "order": 79,
       "mode": 0,
       "inputs": [
         {
@@ -100,7 +100,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 84,
+      "order": 78,
       "mode": 0,
       "inputs": [
         {
@@ -141,7 +141,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 102,
+      "order": 103,
       "mode": 0,
       "inputs": [
         {
@@ -184,7 +184,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 103,
+      "order": 104,
       "mode": 0,
       "inputs": [
         {
@@ -225,7 +225,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 104,
+      "order": 105,
       "mode": 0,
       "inputs": [
         {
@@ -264,7 +264,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 71,
+      "order": 72,
       "mode": 0,
       "inputs": [
         {
@@ -305,7 +305,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 105,
+      "order": 106,
       "mode": 0,
       "inputs": [
         {
@@ -344,7 +344,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 72,
+      "order": 73,
       "mode": 0,
       "inputs": [
         {
@@ -367,8 +367,6 @@
       "widgets_values": [
         "UpscaleModel"
       ],
-      "color": "#f3f3f3",
-      "bgcolor": "#dfdfdf",
       "shape": 1
     },
     {
@@ -385,7 +383,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 111,
+      "order": 112,
       "mode": 0,
       "inputs": [
         {
@@ -426,7 +424,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 94,
+      "order": 95,
       "mode": 0,
       "inputs": [
         {
@@ -467,7 +465,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 76,
+      "order": 81,
       "mode": 0,
       "inputs": [
         {
@@ -490,8 +488,6 @@
       "widgets_values": [
         "width"
       ],
-      "color": "#1b4669",
-      "bgcolor": "#29699c",
       "shape": 1
     },
     {
@@ -508,7 +504,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 77,
+      "order": 82,
       "mode": 0,
       "inputs": [
         {
@@ -549,7 +545,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 78,
+      "order": 83,
       "mode": 0,
       "inputs": [
         {
@@ -572,8 +568,6 @@
       "widgets_values": [
         "quality"
       ],
-      "color": "#1b4669",
-      "bgcolor": "#29699c",
       "shape": 1
     },
     {
@@ -590,7 +584,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 79,
+      "order": 84,
       "mode": 0,
       "inputs": [
         {
@@ -631,7 +625,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 80,
+      "order": 85,
       "mode": 0,
       "inputs": [
         {
@@ -672,7 +666,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 81,
+      "order": 86,
       "mode": 0,
       "inputs": [
         {
@@ -713,7 +707,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 82,
+      "order": 87,
       "mode": 0,
       "inputs": [
         {
@@ -736,8 +730,6 @@
       "widgets_values": [
         "save_img_seq"
       ],
-      "color": "#1b4669",
-      "bgcolor": "#29699c",
       "shape": 1
     },
     {
@@ -754,7 +746,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 99,
+      "order": 100,
       "mode": 0,
       "inputs": [
         {
@@ -1415,7 +1407,7 @@
       "type": "GetNode",
       "pos": [
         1980,
-        290
+        320
       ],
       "size": [
         210,
@@ -1450,7 +1442,7 @@
       "type": "GetNode",
       "pos": [
         1980,
-        240
+        270
       ],
       "size": [
         210,
@@ -1485,7 +1477,7 @@
       "type": "GetNode",
       "pos": [
         1980,
-        340
+        370
       ],
       "size": [
         210,
@@ -1660,7 +1652,7 @@
       "type": "GetNode",
       "pos": [
         1980,
-        90
+        120
       ],
       "size": [
         210,
@@ -1717,6 +1709,7 @@
         "backgroundColor": "transparent",
         "padding": 0,
         "borderRadius": 0,
+        "angle": 0,
         "enableTabs": false,
         "tabWidth": 65,
         "tabXOffset": 10,
@@ -1880,6 +1873,7 @@
         "backgroundColor": "transparent",
         "padding": 0,
         "borderRadius": 0,
+        "angle": 0,
         "enableTabs": false,
         "tabWidth": 65,
         "tabXOffset": 10,
@@ -1923,6 +1917,7 @@
         "backgroundColor": "transparent",
         "padding": 0,
         "borderRadius": 0,
+        "angle": 0,
         "enableTabs": false,
         "tabWidth": 65,
         "tabXOffset": 10,
@@ -1966,6 +1961,7 @@
         "backgroundColor": "transparent",
         "padding": 0,
         "borderRadius": 0,
+        "angle": 0,
         "enableTabs": false,
         "tabWidth": 65,
         "tabXOffset": 10,
@@ -2008,16 +2004,16 @@
       ],
       "title": "Custom Prompt",
       "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.59",
+        "Node name for S&R": "PrimitiveStringMultiline",
         "enableTabs": false,
         "tabWidth": 65,
         "tabXOffset": 10,
         "hasSecondTab": false,
         "secondTabText": "Send Back",
         "secondTabOffset": 80,
-        "secondTabWidth": 65,
-        "cnr_id": "comfy-core",
-        "ver": "0.3.59",
-        "Node name for S&R": "PrimitiveStringMultiline"
+        "secondTabWidth": 65
       },
       "widgets_values": [
         ""
@@ -2040,7 +2036,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 107,
+      "order": 108,
       "mode": 0,
       "inputs": [
         {
@@ -2059,17 +2055,17 @@
       ],
       "title": "Number of Iterations",
       "properties": {
+        "cnr_id": "comfyui-easy-use",
+        "ver": "1.3.0",
+        "Node name for S&R": "easy showAnything",
+        "aux_id": "yolain/ComfyUI-Easy-Use",
         "enableTabs": false,
         "tabWidth": 65,
         "tabXOffset": 10,
         "hasSecondTab": false,
         "secondTabText": "Send Back",
         "secondTabOffset": 80,
-        "secondTabWidth": 65,
-        "cnr_id": "comfyui-easy-use",
-        "ver": "1.3.0",
-        "Node name for S&R": "easy showAnything",
-        "aux_id": "yolain/ComfyUI-Easy-Use"
+        "secondTabWidth": 65
       },
       "widgets_values": [
         "1"
@@ -2118,17 +2114,17 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfyui-videohelpersuite",
+        "ver": "dabda5423a9df2d17940e619ba9bd6a6344453c7",
+        "Node name for S&R": "VHS_LoadImagesPath",
+        "aux_id": "Kosinkadink/ComfyUI-VideoHelperSuite",
         "enableTabs": false,
         "tabWidth": 65,
         "tabXOffset": 10,
         "hasSecondTab": false,
         "secondTabText": "Send Back",
         "secondTabOffset": 80,
-        "secondTabWidth": 65,
-        "cnr_id": "comfyui-videohelpersuite",
-        "ver": "dabda5423a9df2d17940e619ba9bd6a6344453c7",
-        "Node name for S&R": "VHS_LoadImagesPath",
-        "aux_id": "Kosinkadink/ComfyUI-VideoHelperSuite"
+        "secondTabWidth": 65
       },
       "widgets_values": {
         "directory": "D:\\comfy\\ComfyUI_windows_portable\\ComfyUI\\output\\save_upscale_images_61\\sampling_iterations",
@@ -2164,7 +2160,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 89,
+      "order": 90,
       "mode": 4,
       "inputs": [
         {
@@ -2207,6 +2203,10 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfyui-videohelpersuite",
+        "ver": "8e4d79471bf1952154768e8435a9300077b534fa",
+        "Node name for S&R": "VHS_VideoCombine",
+        "aux_id": "Kosinkadink/ComfyUI-VideoHelperSuite",
         "enableTabs": false,
         "tabWidth": 65,
         "tabXOffset": 10,
@@ -2214,10 +2214,6 @@
         "secondTabText": "Send Back",
         "secondTabOffset": 80,
         "secondTabWidth": 65,
-        "cnr_id": "comfyui-videohelpersuite",
-        "ver": "8e4d79471bf1952154768e8435a9300077b534fa",
-        "Node name for S&R": "VHS_VideoCombine",
-        "aux_id": "Kosinkadink/ComfyUI-VideoHelperSuite",
         "ue_properties": {
           "widget_ue_connectable": {},
           "version": "7.1",
@@ -2280,6 +2276,7 @@
         "backgroundColor": "transparent",
         "padding": 0,
         "borderRadius": 0,
+        "angle": 0,
         "enableTabs": false,
         "tabWidth": 65,
         "tabXOffset": 10,
@@ -2323,6 +2320,7 @@
         "backgroundColor": "transparent",
         "padding": 0,
         "borderRadius": 0,
+        "angle": 0,
         "enableTabs": false,
         "tabWidth": 65,
         "tabXOffset": 10,
@@ -2353,7 +2351,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 90,
+      "order": 91,
       "mode": 4,
       "inputs": [
         {
@@ -2364,16 +2362,16 @@
       ],
       "outputs": [],
       "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.59",
+        "Node name for S&R": "SaveImage",
         "enableTabs": false,
         "tabWidth": 65,
         "tabXOffset": 10,
         "hasSecondTab": false,
         "secondTabText": "Send Back",
         "secondTabOffset": 80,
-        "secondTabWidth": 65,
-        "cnr_id": "comfy-core",
-        "ver": "0.3.59",
-        "Node name for S&R": "SaveImage"
+        "secondTabWidth": 65
       },
       "widgets_values": [
         "blended_images/blended_images"
@@ -2409,6 +2407,7 @@
         "backgroundColor": "transparent",
         "padding": 0,
         "borderRadius": 0,
+        "angle": 0,
         "enableTabs": false,
         "tabWidth": 65,
         "tabXOffset": 10,
@@ -2452,6 +2451,7 @@
         "backgroundColor": "transparent",
         "padding": 0,
         "borderRadius": 0,
+        "angle": 0,
         "enableTabs": false,
         "tabWidth": 65,
         "tabXOffset": 10,
@@ -2493,6 +2493,9 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.43",
+        "Node name for S&R": "VAELoader",
         "enableTabs": false,
         "tabWidth": 65,
         "tabXOffset": 10,
@@ -2500,9 +2503,6 @@
         "secondTabText": "Send Back",
         "secondTabOffset": 80,
         "secondTabWidth": 65,
-        "cnr_id": "comfy-core",
-        "ver": "0.3.43",
-        "Node name for S&R": "VAELoader",
         "ue_properties": {
           "version": "7.1",
           "widget_ue_connectable": {
@@ -2532,7 +2532,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 106,
+      "order": 107,
       "mode": 0,
       "inputs": [
         {
@@ -2558,17 +2558,17 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfyui-kjnodes",
+        "ver": "468fcc86f0b29e79a8510e8239eb15714d6747a6",
+        "Node name for S&R": "JoinStrings",
+        "aux_id": "kijai/ComfyUI-KJNodes",
         "enableTabs": false,
         "tabWidth": 65,
         "tabXOffset": 10,
         "hasSecondTab": false,
         "secondTabText": "Send Back",
         "secondTabOffset": 80,
-        "secondTabWidth": 65,
-        "cnr_id": "comfyui-kjnodes",
-        "ver": "468fcc86f0b29e79a8510e8239eb15714d6747a6",
-        "Node name for S&R": "JoinStrings",
-        "aux_id": "kijai/ComfyUI-KJNodes"
+        "secondTabWidth": 65
       },
       "widgets_values": [
         " "
@@ -2589,7 +2589,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 109,
+      "order": 110,
       "mode": 0,
       "inputs": [
         {
@@ -2617,6 +2617,9 @@
       ],
       "title": "Positive Prompt",
       "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.43",
+        "Node name for S&R": "CLIPTextEncode",
         "enableTabs": false,
         "tabWidth": 65,
         "tabXOffset": 10,
@@ -2624,9 +2627,6 @@
         "secondTabText": "Send Back",
         "secondTabOffset": 80,
         "secondTabWidth": 65,
-        "cnr_id": "comfy-core",
-        "ver": "0.3.43",
-        "Node name for S&R": "CLIPTextEncode",
         "ue_properties": {
           "version": "7.1",
           "widget_ue_connectable": {
@@ -2656,7 +2656,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 67,
+      "order": 68,
       "mode": 0,
       "inputs": [
         {
@@ -2677,6 +2677,9 @@
       ],
       "title": "Negative Prompt",
       "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.43",
+        "Node name for S&R": "CLIPTextEncode",
         "enableTabs": false,
         "tabWidth": 65,
         "tabXOffset": 10,
@@ -2684,9 +2687,6 @@
         "secondTabText": "Send Back",
         "secondTabOffset": 80,
         "secondTabWidth": 65,
-        "cnr_id": "comfy-core",
-        "ver": "0.3.43",
-        "Node name for S&R": "CLIPTextEncode",
         "ue_properties": {
           "version": "7.1",
           "widget_ue_connectable": {
@@ -2757,16 +2757,16 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.59",
+        "Node name for S&R": "UpscaleModelLoader",
         "enableTabs": false,
         "tabWidth": 65,
         "tabXOffset": 10,
         "hasSecondTab": false,
         "secondTabText": "Send Back",
         "secondTabOffset": 80,
-        "secondTabWidth": 65,
-        "cnr_id": "comfy-core",
-        "ver": "0.3.59",
-        "Node name for S&R": "UpscaleModelLoader"
+        "secondTabWidth": 65
       },
       "widgets_values": [
         "RealESRGAN_x2.pth"
@@ -2787,7 +2787,7 @@
         176
       ],
       "flags": {},
-      "order": 98,
+      "order": 99,
       "mode": 0,
       "inputs": [
         {
@@ -2861,15 +2861,15 @@
             "value"
           ]
         ],
+        "cnr_id": "comfy-core",
+        "ver": "0.3.59",
         "enableTabs": false,
         "tabWidth": 65,
         "tabXOffset": 10,
         "hasSecondTab": false,
         "secondTabText": "Send Back",
         "secondTabOffset": 80,
-        "secondTabWidth": 65,
-        "cnr_id": "comfy-core",
-        "ver": "0.3.59"
+        "secondTabWidth": 65
       },
       "widgets_values": [
         4,
@@ -2892,7 +2892,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 83,
+      "order": 77,
       "mode": 0,
       "inputs": [
         {
@@ -2911,6 +2911,9 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.59",
+        "Node name for S&R": "ImageFromBatch",
         "enableTabs": false,
         "tabWidth": 65,
         "tabXOffset": 10,
@@ -2918,9 +2921,6 @@
         "secondTabText": "Send Back",
         "secondTabOffset": 80,
         "secondTabWidth": 65,
-        "cnr_id": "comfy-core",
-        "ver": "0.3.59",
-        "Node name for S&R": "ImageFromBatch",
         "ue_properties": {
           "widget_ue_connectable": {
             "batch_index": true,
@@ -2950,7 +2950,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 93,
+      "order": 94,
       "mode": 0,
       "inputs": [
         {
@@ -2989,17 +2989,17 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfyui-florence2",
+        "ver": "1.0.6",
+        "Node name for S&R": "Florence2Run",
+        "aux_id": "kijai/ComfyUI-Florence2",
         "enableTabs": false,
         "tabWidth": 65,
         "tabXOffset": 10,
         "hasSecondTab": false,
         "secondTabText": "Send Back",
         "secondTabOffset": 80,
-        "secondTabWidth": 65,
-        "cnr_id": "comfyui-florence2",
-        "ver": "1.0.6",
-        "Node name for S&R": "Florence2Run",
-        "aux_id": "kijai/ComfyUI-Florence2"
+        "secondTabWidth": 65
       },
       "widgets_values": [
         "",
@@ -3029,7 +3029,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 100,
+      "order": 101,
       "mode": 0,
       "inputs": [
         {
@@ -3051,16 +3051,16 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.63",
+        "Node name for S&R": "StringReplace",
         "enableTabs": false,
         "tabWidth": 65,
         "tabXOffset": 10,
         "hasSecondTab": false,
         "secondTabText": "Send Back",
         "secondTabOffset": 80,
-        "secondTabWidth": 65,
-        "cnr_id": "comfy-core",
-        "ver": "0.3.63",
-        "Node name for S&R": "StringReplace"
+        "secondTabWidth": 65
       },
       "widgets_values": [
         "",
@@ -3081,7 +3081,7 @@
         220
       ],
       "flags": {},
-      "order": 108,
+      "order": 109,
       "mode": 0,
       "inputs": [
         {
@@ -3101,6 +3101,10 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfyui-custom-scripts",
+        "ver": "1.2.5",
+        "Node name for S&R": "ShowText|pysssss",
+        "aux_id": "pythongosssss/ComfyUI-Custom-Scripts",
         "enableTabs": false,
         "tabWidth": 65,
         "tabXOffset": 10,
@@ -3108,10 +3112,6 @@
         "secondTabText": "Send Back",
         "secondTabOffset": 80,
         "secondTabWidth": 65,
-        "cnr_id": "comfyui-custom-scripts",
-        "ver": "1.2.5",
-        "Node name for S&R": "ShowText|pysssss",
-        "aux_id": "pythongosssss/ComfyUI-Custom-Scripts",
         "ue_properties": {
           "widget_ue_connectable": {},
           "version": "7.1",
@@ -3119,7 +3119,7 @@
         }
       },
       "widgets_values": [
-        " The high quality video is a close-up portrait of a young woman with curly blonde hair. She is sitting in front of a window with her eyes closed and her head resting on her hands. She appears to be deep in thought or meditating. The woman is wearing a black top and her hair is styled in loose curls. The background is blurred, but it seems to be an outdoor setting with trees and buildings visible through the window. The overall mood of the high quality video is peaceful and serene."
+        " The high quality video shows a stack of three PlayStation 4 consoles stacked on top of each other on a black surface. The consoles are in different colors - pink, blue, and purple. On the right side of the high quality video, there is a small figurine of a pink alien-like figure with glowing eyes and sharp teeth. The background is dark and the overall color scheme is purple and blue. The high quality video appears to be taken in a dimly lit room."
       ],
       "shape": 1
     },
@@ -3132,10 +3132,10 @@
       ],
       "size": [
         862.9674072265625,
-        334
+        822.1691665649414
       ],
       "flags": {},
-      "order": 69,
+      "order": 70,
       "mode": 0,
       "inputs": [
         {
@@ -3178,6 +3178,10 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfyui-videohelpersuite",
+        "ver": "8e4d79471bf1952154768e8435a9300077b534fa",
+        "Node name for S&R": "VHS_VideoCombine",
+        "aux_id": "Kosinkadink/ComfyUI-VideoHelperSuite",
         "enableTabs": false,
         "tabWidth": 65,
         "tabXOffset": 10,
@@ -3185,10 +3189,6 @@
         "secondTabText": "Send Back",
         "secondTabOffset": 80,
         "secondTabWidth": 65,
-        "cnr_id": "comfyui-videohelpersuite",
-        "ver": "8e4d79471bf1952154768e8435a9300077b534fa",
-        "Node name for S&R": "VHS_VideoCombine",
-        "aux_id": "Kosinkadink/ComfyUI-VideoHelperSuite",
         "ue_properties": {
           "widget_ue_connectable": {},
           "version": "7.1",
@@ -3210,13 +3210,13 @@
           "hidden": false,
           "paused": false,
           "params": {
-            "filename": "upscaled_video_00088.mp4",
+            "filename": "upscaled_video_00001.mp4",
             "subfolder": "",
             "type": "output",
             "format": "video/h264-mp4",
-            "frame_rate": 25,
-            "workflow": "upscaled_video_00088.png",
-            "fullpath": "D:\\comfy\\ComfyUI_windows_portable\\ComfyUI\\output\\upscaled_video_00088.mp4"
+            "frame_rate": 24,
+            "workflow": "upscaled_video_00001.png",
+            "fullpath": "D:\\comfy\\ComfyUI\\output\\upscaled_video_00001.mp4"
           }
         }
       },
@@ -3238,7 +3238,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 86,
+      "order": 80,
       "mode": 0,
       "inputs": [
         {
@@ -3302,17 +3302,17 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfyui-videohelpersuite",
+        "ver": "dabda5423a9df2d17940e619ba9bd6a6344453c7",
+        "Node name for S&R": "VHS_VideoInfo",
+        "aux_id": "Kosinkadink/ComfyUI-VideoHelperSuite",
         "enableTabs": false,
         "tabWidth": 65,
         "tabXOffset": 10,
         "hasSecondTab": false,
         "secondTabText": "Send Back",
         "secondTabOffset": 80,
-        "secondTabWidth": 65,
-        "cnr_id": "comfyui-videohelpersuite",
-        "ver": "dabda5423a9df2d17940e619ba9bd6a6344453c7",
-        "Node name for S&R": "VHS_VideoInfo",
-        "aux_id": "Kosinkadink/ComfyUI-VideoHelperSuite"
+        "secondTabWidth": 65
       },
       "widgets_values": {},
       "color": "#f1f1f1",
@@ -3344,6 +3344,9 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.43",
+        "Node name for S&R": "CLIPLoader",
         "enableTabs": false,
         "tabWidth": 65,
         "tabXOffset": 10,
@@ -3351,9 +3354,6 @@
         "secondTabText": "Send Back",
         "secondTabOffset": 80,
         "secondTabWidth": 65,
-        "cnr_id": "comfy-core",
-        "ver": "0.3.43",
-        "Node name for S&R": "CLIPLoader",
         "ue_properties": {
           "version": "7.1",
           "widget_ue_connectable": {
@@ -3387,7 +3387,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 88,
+      "order": 89,
       "mode": 0,
       "inputs": [
         {
@@ -3422,6 +3422,9 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.57",
+        "Node name for S&R": "ImageScale",
         "enableTabs": false,
         "tabWidth": 65,
         "tabXOffset": 10,
@@ -3429,9 +3432,6 @@
         "secondTabText": "Send Back",
         "secondTabOffset": 80,
         "secondTabWidth": 65,
-        "cnr_id": "comfy-core",
-        "ver": "0.3.57",
-        "Node name for S&R": "ImageScale",
         "ue_properties": {
           "widget_ue_connectable": {
             "upscale_method": true,
@@ -3452,66 +3452,11 @@
       "shape": 1
     },
     {
-      "id": 420,
-      "type": "ImageSmartSharpen+",
-      "pos": [
-        1980,
-        -250
-      ],
-      "size": [
-        270,
-        130
-      ],
-      "flags": {},
-      "order": 96,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "image",
-          "type": "IMAGE",
-          "link": 687
-        }
-      ],
-      "outputs": [
-        {
-          "name": "IMAGE",
-          "type": "IMAGE",
-          "links": [
-            686
-          ]
-        }
-      ],
-      "properties": {
-        "enableTabs": false,
-        "tabWidth": 65,
-        "tabXOffset": 10,
-        "hasSecondTab": false,
-        "secondTabText": "Send Back",
-        "secondTabOffset": 80,
-        "secondTabWidth": 65,
-        "cnr_id": "comfyui_essentials",
-        "ver": "9d9f4bedfc9f0321c19faf71855e228c93bd0dc9",
-        "Node name for S&R": "ImageSmartSharpen+",
-        "ue_properties": {
-          "widget_ue_connectable": {},
-          "input_ue_unconnectable": {},
-          "version": "7.2.2"
-        }
-      },
-      "widgets_values": [
-        5,
-        0.75,
-        1.5,
-        0.5
-      ],
-      "shape": 1
-    },
-    {
       "id": 115,
       "type": "WanVideoNAG",
       "pos": [
         1980,
-        140
+        170
       ],
       "size": [
         280,
@@ -3520,7 +3465,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 87,
+      "order": 88,
       "mode": 0,
       "inputs": [
         {
@@ -3544,6 +3489,10 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfyui-kjnodes",
+        "ver": "f7eb33abc80a2aded1b46dff0dd14d07856a7d50",
+        "Node name for S&R": "WanVideoNAG",
+        "aux_id": "kijai/ComfyUI-KJNodes",
         "enableTabs": false,
         "tabWidth": 65,
         "tabXOffset": 10,
@@ -3551,10 +3500,6 @@
         "secondTabText": "Send Back",
         "secondTabOffset": 80,
         "secondTabWidth": 65,
-        "cnr_id": "comfyui-kjnodes",
-        "ver": "f7eb33abc80a2aded1b46dff0dd14d07856a7d50",
-        "Node name for S&R": "WanVideoNAG",
-        "aux_id": "kijai/ComfyUI-KJNodes",
         "ue_properties": {
           "version": "7.0.1",
           "widget_ue_connectable": {}
@@ -3571,60 +3516,6 @@
       "shape": 1
     },
     {
-      "id": 421,
-      "type": "ImageAddNoise",
-      "pos": [
-        1980,
-        -70
-      ],
-      "size": [
-        270,
-        106
-      ],
-      "flags": {},
-      "order": 101,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "image",
-          "type": "IMAGE",
-          "link": 686
-        }
-      ],
-      "outputs": [
-        {
-          "name": "IMAGE",
-          "type": "IMAGE",
-          "links": [
-            688
-          ]
-        }
-      ],
-      "properties": {
-        "enableTabs": false,
-        "tabWidth": 65,
-        "tabXOffset": 10,
-        "hasSecondTab": false,
-        "secondTabText": "Send Back",
-        "secondTabOffset": 80,
-        "secondTabWidth": 65,
-        "cnr_id": "comfy-core",
-        "ver": "0.3.59",
-        "Node name for S&R": "ImageAddNoise",
-        "ue_properties": {
-          "widget_ue_connectable": {},
-          "input_ue_unconnectable": {},
-          "version": "7.2.2"
-        }
-      },
-      "widgets_values": [
-        0,
-        "fixed",
-        0.01
-      ],
-      "shape": 1
-    },
-    {
       "id": 392,
       "type": "3a5d7d35-9999-4738-b299-aed4dbeffd55",
       "pos": [
@@ -3636,7 +3527,7 @@
         176
       ],
       "flags": {},
-      "order": 70,
+      "order": 71,
       "mode": 4,
       "inputs": [
         {
@@ -3685,15 +3576,15 @@
             "a"
           ]
         ],
+        "cnr_id": "comfy-core",
+        "ver": "0.3.59",
         "enableTabs": false,
         "tabWidth": 65,
         "tabXOffset": 10,
         "hasSecondTab": false,
         "secondTabText": "Send Back",
         "secondTabOffset": 80,
-        "secondTabWidth": 65,
-        "cnr_id": "comfy-core",
-        "ver": "0.3.59"
+        "secondTabWidth": 65
       },
       "widgets_values": [
         4
@@ -3712,7 +3603,7 @@
         82
       ],
       "flags": {},
-      "order": 92,
+      "order": 93,
       "mode": 0,
       "inputs": [
         {
@@ -3731,6 +3622,9 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.46",
+        "Node name for S&R": "LoraLoaderModelOnly",
         "enableTabs": false,
         "tabWidth": 65,
         "tabXOffset": 10,
@@ -3738,9 +3632,6 @@
         "secondTabText": "Send Back",
         "secondTabOffset": 80,
         "secondTabWidth": 65,
-        "cnr_id": "comfy-core",
-        "ver": "0.3.46",
-        "Node name for S&R": "LoraLoaderModelOnly",
         "ue_properties": {
           "version": "7.1",
           "widget_ue_connectable": {},
@@ -3789,17 +3680,17 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfyui-florence2",
+        "ver": "1.0.6",
+        "Node name for S&R": "DownloadAndLoadFlorence2Model",
+        "aux_id": "kijai/ComfyUI-Florence2",
         "enableTabs": false,
         "tabWidth": 65,
         "tabXOffset": 10,
         "hasSecondTab": false,
         "secondTabText": "Send Back",
         "secondTabOffset": 80,
-        "secondTabWidth": 65,
-        "cnr_id": "comfyui-florence2",
-        "ver": "1.0.6",
-        "Node name for S&R": "DownloadAndLoadFlorence2Model",
-        "aux_id": "kijai/ComfyUI-Florence2"
+        "secondTabWidth": 65
       },
       "widgets_values": [
         "microsoft/Florence-2-large",
@@ -3807,61 +3698,6 @@
         "sdpa",
         false
       ],
-      "shape": 1
-    },
-    {
-      "id": 70,
-      "type": "LoraLoaderModelOnly",
-      "pos": [
-        140,
-        -270
-      ],
-      "size": [
-        380,
-        82
-      ],
-      "flags": {},
-      "order": 75,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 723
-        }
-      ],
-      "outputs": [
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "links": [
-            128
-          ]
-        }
-      ],
-      "properties": {
-        "enableTabs": false,
-        "tabWidth": 65,
-        "tabXOffset": 10,
-        "hasSecondTab": false,
-        "secondTabText": "Send Back",
-        "secondTabOffset": 80,
-        "secondTabWidth": 65,
-        "cnr_id": "comfy-core",
-        "ver": "0.3.46",
-        "Node name for S&R": "LoraLoaderModelOnly",
-        "ue_properties": {
-          "version": "7.1",
-          "widget_ue_connectable": {},
-          "input_ue_unconnectable": {}
-        }
-      },
-      "widgets_values": [
-        "wan\\Wan2.2-T2V-A14B-4steps-lora-250928\\low_noise_model.safetensors",
-        1
-      ],
-      "color": "#f1f1f1",
-      "bgcolor": "#dddddd",
       "shape": 1
     },
     {
@@ -3878,7 +3714,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 91,
+      "order": 92,
       "mode": 0,
       "inputs": [
         {
@@ -3902,17 +3738,17 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfyui-custom-scripts",
+        "ver": "f2838ed5e59de4d73cde5c98354b87a8d3200190",
+        "Node name for S&R": "StringFunction|pysssss",
+        "aux_id": "pythongosssss/ComfyUI-Custom-Scripts",
         "enableTabs": false,
         "tabWidth": 65,
         "tabXOffset": 10,
         "hasSecondTab": false,
         "secondTabText": "Send Back",
         "secondTabOffset": 80,
-        "secondTabWidth": 65,
-        "cnr_id": "comfyui-custom-scripts",
-        "ver": "f2838ed5e59de4d73cde5c98354b87a8d3200190",
-        "Node name for S&R": "StringFunction|pysssss",
-        "aux_id": "pythongosssss/ComfyUI-Custom-Scripts"
+        "secondTabWidth": 65
       },
       "widgets_values": [
         "append",
@@ -3937,7 +3773,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 74,
+      "order": 75,
       "mode": 0,
       "inputs": [
         {
@@ -3956,17 +3792,17 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfyui-kjnodes",
+        "ver": "468fcc86f0b29e79a8510e8239eb15714d6747a6",
+        "Node name for S&R": "SomethingToString",
+        "aux_id": "kijai/ComfyUI-KJNodes",
         "enableTabs": false,
         "tabWidth": 65,
         "tabXOffset": 10,
         "hasSecondTab": false,
         "secondTabText": "Send Back",
         "secondTabOffset": 80,
-        "secondTabWidth": 65,
-        "cnr_id": "comfyui-kjnodes",
-        "ver": "468fcc86f0b29e79a8510e8239eb15714d6747a6",
-        "Node name for S&R": "SomethingToString",
-        "aux_id": "kijai/ComfyUI-KJNodes"
+        "secondTabWidth": 65
       },
       "widgets_values": [
         "",
@@ -4007,19 +3843,19 @@
       ],
       "title": "Incement Output Folder Number",
       "properties": {
+        "cnr_id": "RES4LYF",
+        "ver": "7750bf7800b6ad9d670308a09989fc0c04c40cec",
+        "Node name for S&R": "SeedGenerator",
         "enableTabs": false,
         "tabWidth": 65,
         "tabXOffset": 10,
         "hasSecondTab": false,
         "secondTabText": "Send Back",
         "secondTabOffset": 80,
-        "secondTabWidth": 65,
-        "cnr_id": "RES4LYF",
-        "ver": "7750bf7800b6ad9d670308a09989fc0c04c40cec",
-        "Node name for S&R": "SeedGenerator"
+        "secondTabWidth": 65
       },
       "widgets_values": [
-        11,
+        12,
         "increment"
       ],
       "shape": 1
@@ -4036,7 +3872,7 @@
         192
       ],
       "flags": {},
-      "order": 97,
+      "order": 98,
       "mode": 0,
       "inputs": [
         {
@@ -4122,15 +3958,15 @@
             "value"
           ]
         ],
+        "cnr_id": "comfy-core",
+        "ver": "0.3.59",
         "enableTabs": false,
         "tabWidth": 65,
         "tabXOffset": 10,
         "hasSecondTab": false,
         "secondTabText": "Send Back",
         "secondTabOffset": 80,
-        "secondTabWidth": 65,
-        "cnr_id": "comfy-core",
-        "ver": "0.3.59"
+        "secondTabWidth": 65
       },
       "widgets_values": [
         " ",
@@ -4161,17 +3997,17 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfyui-gguf",
+        "ver": "1.1.4",
+        "Node name for S&R": "UnetLoaderGGUF",
+        "aux_id": "city96/ComfyUI-GGUF",
         "enableTabs": false,
         "tabWidth": 65,
         "tabXOffset": 10,
         "hasSecondTab": false,
         "secondTabText": "Send Back",
         "secondTabOffset": 80,
-        "secondTabWidth": 65,
-        "cnr_id": "comfyui-gguf",
-        "ver": "1.1.4",
-        "Node name for S&R": "UnetLoaderGGUF",
-        "aux_id": "city96/ComfyUI-GGUF"
+        "secondTabWidth": 65
       },
       "widgets_values": [
         "gguf\\wan2.2_t2v_low_noise_14B_Q5_K_M.gguf"
@@ -4192,7 +4028,7 @@
         874
       ],
       "flags": {},
-      "order": 110,
+      "order": 111,
       "mode": 0,
       "inputs": [
         {
@@ -4239,6 +4075,10 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfyui_ultimatesdupscale",
+        "ver": "627c871f14532b164331f08d0eebfbf7404161ee",
+        "Node name for S&R": "UltimateSDUpscaleNoUpscale",
+        "aux_id": "ssitu/ComfyUI_UltimateSDUpscale",
         "enableTabs": false,
         "tabWidth": 65,
         "tabXOffset": 10,
@@ -4246,10 +4086,6 @@
         "secondTabText": "Send Back",
         "secondTabOffset": 80,
         "secondTabWidth": 65,
-        "cnr_id": "comfyui_ultimatesdupscale",
-        "ver": "627c871f14532b164331f08d0eebfbf7404161ee",
-        "Node name for S&R": "UltimateSDUpscaleNoUpscale",
-        "aux_id": "ssitu/ComfyUI_UltimateSDUpscale",
         "ue_properties": {
           "widget_ue_connectable": {
             "seed": true,
@@ -4312,7 +4148,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 68,
+      "order": 69,
       "mode": 0,
       "inputs": [
         {
@@ -4336,16 +4172,16 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.59",
+        "Node name for S&R": "ImageUpscaleWithModel",
         "enableTabs": false,
         "tabWidth": 65,
         "tabXOffset": 10,
         "hasSecondTab": false,
         "secondTabText": "Send Back",
         "secondTabOffset": 80,
-        "secondTabWidth": 65,
-        "cnr_id": "comfy-core",
-        "ver": "0.3.59",
-        "Node name for S&R": "ImageUpscaleWithModel"
+        "secondTabWidth": 65
       },
       "widgets_values": [],
       "shape": 1
@@ -4355,7 +4191,7 @@
       "type": "ModelSamplingSD3",
       "pos": [
         1980,
-        190
+        220
       ],
       "size": [
         270,
@@ -4364,7 +4200,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 95,
+      "order": 96,
       "mode": 0,
       "inputs": [
         {
@@ -4391,16 +4227,16 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.63",
+        "Node name for S&R": "ModelSamplingSD3",
         "enableTabs": false,
         "tabWidth": 65,
         "tabXOffset": 10,
         "hasSecondTab": false,
         "secondTabText": "Send Back",
         "secondTabOffset": 80,
-        "secondTabWidth": 65,
-        "cnr_id": "comfy-core",
-        "ver": "0.3.63",
-        "Node name for S&R": "ModelSamplingSD3"
+        "secondTabWidth": 65
       },
       "widgets_values": [
         20
@@ -4432,6 +4268,9 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.50",
+        "Node name for S&R": "UNETLoader",
         "enableTabs": false,
         "tabWidth": 65,
         "tabXOffset": 10,
@@ -4439,9 +4278,6 @@
         "secondTabText": "Send Back",
         "secondTabOffset": 80,
         "secondTabWidth": 65,
-        "cnr_id": "comfy-core",
-        "ver": "0.3.50",
-        "Node name for S&R": "UNETLoader",
         "ue_properties": {
           "version": "7.0.1",
           "widget_ue_connectable": {}
@@ -4456,6 +4292,940 @@
       "shape": 1
     },
     {
+      "id": 448,
+      "type": "MarkdownNote",
+      "pos": [
+        640,
+        530
+      ],
+      "size": [
+        340,
+        110
+      ],
+      "flags": {},
+      "order": 47,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Tip:",
+      "properties": {
+        "ue_properties": {
+          "version": "7.0.1",
+          "widget_ue_connectable": {}
+        }
+      },
+      "widgets_values": [
+        "Always set the sample count to a multiple of 4 + 1 (e.g. 81, 85, 89, 93 …).\nThis is required because WAN Video only processes frame batches in that pattern.\n\nThis is relevant for Frame Load Cap and Frames per Iteration, as mismatched values can cause glitchy frames."
+      ],
+      "color": "#ffc14b",
+      "bgcolor": "#f1ad37",
+      "shape": 1
+    },
+    {
+      "id": 311,
+      "type": "Label (rgthree)",
+      "pos": [
+        191.8162132352678,
+        -839.5536085380509
+      ],
+      "size": [
+        54.78333282470703,
+        17
+      ],
+      "flags": {
+        "allow_interaction": true
+      },
+      "order": 48,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Prompt",
+      "properties": {
+        "fontSize": 17,
+        "fontFamily": "Arial",
+        "fontColor": "#ffffff",
+        "textAlign": "left",
+        "backgroundColor": "transparent",
+        "padding": 0,
+        "borderRadius": 0,
+        "angle": 0,
+        "enableTabs": false,
+        "tabWidth": 65,
+        "tabXOffset": 10,
+        "hasSecondTab": false,
+        "secondTabText": "Send Back",
+        "secondTabOffset": 80,
+        "secondTabWidth": 65,
+        "ue_properties": {
+          "version": "7.0.1",
+          "widget_ue_connectable": {}
+        }
+      },
+      "color": "#fff0",
+      "bgcolor": "#fff0",
+      "shape": 1
+    },
+    {
+      "id": 312,
+      "type": "Label (rgthree)",
+      "pos": [
+        192.8367210477678,
+        -799.2982374443009
+      ],
+      "size": [
+        150.21665954589844,
+        17
+      ],
+      "flags": {
+        "allow_interaction": true
+      },
+      "order": 49,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Upscale Generation",
+      "properties": {
+        "fontSize": 17,
+        "fontFamily": "Arial",
+        "fontColor": "#ffffff",
+        "textAlign": "left",
+        "backgroundColor": "transparent",
+        "padding": 0,
+        "borderRadius": 0,
+        "angle": 0,
+        "enableTabs": false,
+        "tabWidth": 65,
+        "tabXOffset": 10,
+        "hasSecondTab": false,
+        "secondTabText": "Send Back",
+        "secondTabOffset": 80,
+        "secondTabWidth": 65,
+        "ue_properties": {
+          "version": "7.0.1",
+          "widget_ue_connectable": {}
+        }
+      },
+      "color": "#fff0",
+      "bgcolor": "#fff0",
+      "shape": 1
+    },
+    {
+      "id": 315,
+      "type": "Reroute",
+      "pos": [
+        101.81602250040453,
+        -765.6773878349259
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {},
+      "order": 50,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": null
+        }
+      ],
+      "outputs": [
+        {
+          "name": "",
+          "type": "*",
+          "links": null
+        }
+      ],
+      "properties": {
+        "showOutputText": false,
+        "horizontal": false,
+        "ue_properties": {
+          "version": "7.0.1",
+          "widget_ue_connectable": {}
+        }
+      },
+      "color": "#ffc14b",
+      "bgcolor": "#f1ad37",
+      "shape": 1
+    },
+    {
+      "id": 449,
+      "type": "Reroute",
+      "pos": [
+        101.38599641887107,
+        -726.3429399081505
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {},
+      "order": 51,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": null
+        }
+      ],
+      "outputs": [
+        {
+          "name": "",
+          "type": "*",
+          "links": null
+        }
+      ],
+      "properties": {
+        "showOutputText": false,
+        "horizontal": false,
+        "ue_properties": {
+          "version": "7.0.1",
+          "widget_ue_connectable": {}
+        }
+      },
+      "shape": 1
+    },
+    {
+      "id": 313,
+      "type": "Label (rgthree)",
+      "pos": [
+        192.5815940946428,
+        -759.5049024833634
+      ],
+      "size": [
+        125.61666870117188,
+        17
+      ],
+      "flags": {
+        "allow_interaction": true
+      },
+      "order": 52,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Important Notes!",
+      "properties": {
+        "fontSize": 17,
+        "fontFamily": "Arial",
+        "fontColor": "#ffffff",
+        "textAlign": "left",
+        "backgroundColor": "transparent",
+        "padding": 0,
+        "borderRadius": 0,
+        "angle": 0,
+        "enableTabs": false,
+        "tabWidth": 65,
+        "tabXOffset": 10,
+        "hasSecondTab": false,
+        "secondTabText": "Send Back",
+        "secondTabOffset": 80,
+        "secondTabWidth": 65,
+        "ue_properties": {
+          "version": "7.0.1",
+          "widget_ue_connectable": {}
+        }
+      },
+      "color": "#fff0",
+      "bgcolor": "#fff0",
+      "shape": 1
+    },
+    {
+      "id": 450,
+      "type": "Label (rgthree)",
+      "pos": [
+        192.95784625016077,
+        -722.2597930769188
+      ],
+      "size": [
+        104.8499984741211,
+        17
+      ],
+      "flags": {
+        "allow_interaction": true
+      },
+      "order": 53,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Batch Creator",
+      "properties": {
+        "fontSize": 17,
+        "fontFamily": "Arial",
+        "fontColor": "#ffffff",
+        "textAlign": "left",
+        "backgroundColor": "transparent",
+        "padding": 0,
+        "borderRadius": 0,
+        "angle": 0,
+        "enableTabs": false,
+        "tabWidth": 65,
+        "tabXOffset": 10,
+        "hasSecondTab": false,
+        "secondTabText": "Send Back",
+        "secondTabOffset": 80,
+        "secondTabWidth": 65,
+        "ue_properties": {
+          "version": "7.0.1",
+          "widget_ue_connectable": {}
+        }
+      },
+      "color": "#fff0",
+      "bgcolor": "#fff0",
+      "shape": 1
+    },
+    {
+      "id": 317,
+      "type": "Label (rgthree)",
+      "pos": [
+        40,
+        -530
+      ],
+      "size": [
+        38,
+        38
+      ],
+      "flags": {
+        "allow_interaction": true
+      },
+      "order": 54,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "→",
+      "properties": {
+        "fontSize": 38,
+        "fontFamily": "Arial",
+        "fontColor": "#ffffff",
+        "textAlign": "left",
+        "backgroundColor": "transparent",
+        "padding": 0,
+        "borderRadius": 0,
+        "angle": 0,
+        "enableTabs": false,
+        "tabWidth": 65,
+        "tabXOffset": 10,
+        "hasSecondTab": false,
+        "secondTabText": "Send Back",
+        "secondTabOffset": 80,
+        "secondTabWidth": 65,
+        "ue_properties": {
+          "version": "7.0.1",
+          "widget_ue_connectable": {}
+        }
+      },
+      "color": "#fff0",
+      "bgcolor": "#fff0",
+      "shape": 1
+    },
+    {
+      "id": 325,
+      "type": "MarkdownNote",
+      "pos": [
+        -340,
+        -600
+      ],
+      "size": [
+        350,
+        120
+      ],
+      "flags": {},
+      "order": 55,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Model download links",
+      "properties": {
+        "ue_properties": {
+          "version": "7.0.1",
+          "widget_ue_connectable": {}
+        }
+      },
+      "widgets_values": [
+        "wan2.2_t2v_low_noise_14B_fp8_scaled.safetensors:\n\n[https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged/blob/main/split_files/diffusion_models/wan2.2_t2v_low_noise_14B_fp8_scaled.safetensors](https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged/blob/main/split_files/diffusion_models/wan2.2_t2v_low_noise_14B_fp8_scaled.safetensors)\n\n📁 ComfyUI/models/diffusion_models"
+      ],
+      "color": "#ffc14b",
+      "bgcolor": "#f1ad37",
+      "shape": 1
+    },
+    {
+      "id": 332,
+      "type": "MarkdownNote",
+      "pos": [
+        -340,
+        -140
+      ],
+      "size": [
+        350,
+        90
+      ],
+      "flags": {},
+      "order": 56,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Model download links",
+      "properties": {
+        "ue_properties": {
+          "version": "7.0.1",
+          "widget_ue_connectable": {}
+        }
+      },
+      "widgets_values": [
+        "stock_photography_wan22_LOW_v1.safetensors:\n\n[https://civitai.com/models/1925758?modelVersionId=2179627](https://civitai.com/models/1925758?modelVersionId=2179627)\n\n📁 ComfyUI/models/loras"
+      ],
+      "color": "#ffc14b",
+      "bgcolor": "#f1ad37",
+      "shape": 1
+    },
+    {
+      "id": 329,
+      "type": "MarkdownNote",
+      "pos": [
+        -340,
+        30
+      ],
+      "size": [
+        350,
+        120
+      ],
+      "flags": {},
+      "order": 57,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Model download links",
+      "properties": {
+        "ue_properties": {
+          "version": "7.0.1",
+          "widget_ue_connectable": {}
+        }
+      },
+      "widgets_values": [
+        "umt5_xxl_fp8_e4m3fn_scaled.safetensors:\n\n[https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged/blob/main/split_files/text_encoders/umt5_xxl_fp8_e4m3fn_scaled.safetensors](https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged/blob/main/split_files/text_encoders/umt5_xxl_fp8_e4m3fn_scaled.safetensors)\n\n📁 ComfyUI/models/text_encoders\n"
+      ],
+      "color": "#ffc14b",
+      "bgcolor": "#f1ad37",
+      "shape": 1
+    },
+    {
+      "id": 324,
+      "type": "MarkdownNote",
+      "pos": [
+        -340,
+        230
+      ],
+      "size": [
+        350,
+        110
+      ],
+      "flags": {},
+      "order": 58,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Model download links",
+      "properties": {
+        "ue_properties": {
+          "version": "7.0.1",
+          "widget_ue_connectable": {}
+        }
+      },
+      "widgets_values": [
+        "wan_2.1_vae.safetensors:\n\n[https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged/blob/main/split_files/vae/wan_2.1_vae.safetensors](https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged/blob/main/split_files/vae/wan_2.1_vae.safetensors)\n\n📁 ComfyUI/models/vae"
+      ],
+      "color": "#ffc14b",
+      "bgcolor": "#f1ad37",
+      "shape": 1
+    },
+    {
+      "id": 405,
+      "type": "MarkdownNote",
+      "pos": [
+        -340,
+        400
+      ],
+      "size": [
+        350,
+        110
+      ],
+      "flags": {},
+      "order": 59,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Model download links",
+      "properties": {
+        "ue_properties": {
+          "version": "7.0.1",
+          "widget_ue_connectable": {}
+        }
+      },
+      "widgets_values": [
+        "Download this model via the model manager by searching for:\n\nRealESRGAN_x2.pth"
+      ],
+      "color": "#ffc14b",
+      "bgcolor": "#f1ad37",
+      "shape": 1
+    },
+    {
+      "id": 130,
+      "type": "VHS_LoadVideo",
+      "pos": [
+        640,
+        -550
+      ],
+      "size": [
+        580,
+        639
+      ],
+      "flags": {},
+      "order": 60,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "meta_batch",
+          "shape": 7,
+          "type": "VHS_BatchManager",
+          "link": null
+        },
+        {
+          "name": "vae",
+          "shape": 7,
+          "type": "VAE",
+          "link": null
+        }
+      ],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            341,
+            424
+          ]
+        },
+        {
+          "name": "frame_count",
+          "type": "INT",
+          "links": [
+            300
+          ]
+        },
+        {
+          "name": "audio",
+          "type": "AUDIO",
+          "links": null
+        },
+        {
+          "name": "video_info",
+          "type": "VHS_VIDEOINFO",
+          "links": [
+            567
+          ]
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfyui-videohelpersuite",
+        "ver": "1.7.5",
+        "Node name for S&R": "VHS_LoadVideo",
+        "aux_id": "Kosinkadink/ComfyUI-VideoHelperSuite",
+        "enableTabs": false,
+        "tabWidth": 65,
+        "tabXOffset": 10,
+        "hasSecondTab": false,
+        "secondTabText": "Send Back",
+        "secondTabOffset": 80,
+        "secondTabWidth": 65,
+        "ue_properties": {
+          "widget_ue_connectable": {
+            "video": true,
+            "force_rate": true,
+            "custom_width": true,
+            "custom_height": true,
+            "frame_load_cap": true,
+            "skip_first_frames": true,
+            "select_every_nth": true,
+            "format": true
+          },
+          "version": "7.1",
+          "input_ue_unconnectable": {}
+        }
+      },
+      "widgets_values": {
+        "video": "WanVideo2_2_T2M_00058.mp4",
+        "force_rate": 0,
+        "custom_width": 0,
+        "custom_height": 0,
+        "frame_load_cap": 81,
+        "skip_first_frames": 0,
+        "select_every_nth": 1,
+        "format": "AnimateDiff",
+        "choose video to upload": "image",
+        "videopreview": {
+          "hidden": false,
+          "paused": false,
+          "params": {
+            "filename": "WanVideo2_2_T2M_00058.mp4",
+            "type": "input",
+            "format": "video/mp4",
+            "force_rate": 0,
+            "custom_width": 0,
+            "custom_height": 0,
+            "frame_load_cap": 81,
+            "skip_first_frames": 0,
+            "select_every_nth": 1
+          }
+        }
+      },
+      "color": "#f1f1f1",
+      "bgcolor": "#dddddd",
+      "shape": 1
+    },
+    {
+      "id": 310,
+      "type": "Label (rgthree)",
+      "pos": [
+        191.8162132352678,
+        -880.2702223075821
+      ],
+      "size": [
+        305.0666809082031,
+        17
+      ],
+      "flags": {
+        "allow_interaction": true
+      },
+      "order": 61,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Input / Output / Model Loaders / Settings",
+      "properties": {
+        "fontSize": 17,
+        "fontFamily": "Arial",
+        "fontColor": "#ffffff",
+        "textAlign": "left",
+        "backgroundColor": "transparent",
+        "padding": 0,
+        "borderRadius": 0,
+        "angle": 0,
+        "enableTabs": false,
+        "tabWidth": 65,
+        "tabXOffset": 10,
+        "hasSecondTab": false,
+        "secondTabText": "Send Back",
+        "secondTabOffset": 80,
+        "secondTabWidth": 65,
+        "ue_properties": {
+          "version": "7.0.1",
+          "widget_ue_connectable": {}
+        }
+      },
+      "color": "#fff0",
+      "bgcolor": "#fff0",
+      "shape": 1
+    },
+    {
+      "id": 383,
+      "type": "MarkdownNote",
+      "pos": [
+        -340,
+        -1290
+      ],
+      "size": [
+        350,
+        590
+      ],
+      "flags": {},
+      "order": 62,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Quick Guide",
+      "properties": {
+        "ue_properties": {
+          "version": "7.0.1",
+          "widget_ue_connectable": {}
+        }
+      },
+      "widgets_values": [
+        "## How to Use\n\nSet up everything in the *Input Video & Settings* section.\n\n### Target Resolution\n\nSet the target resolution width and height.\n\n### Enable for High Quality\n\nEnabling this sets the steps of the sampler. False is normal quality with 1 step, and True is high quality with 2 steps, but takes longer to generate.\n\n### Creativity\n\nAdjusts the shift value to manipulate the sigma for the scheduler. A lower value adheres more to the source and is less generative, and a higher value is more generative and can create more details. High values can also create noise artifacts.\n\n---\n\n## Long Video\n\n### Frames per Iteration\n\nWhen the value is lower than your clip length, iterative sampling will activate itself automatically. Here you can control how many frames per iteration are sampled.\n\n### Overlap Frames\n\nSet the number of extra frames generated per iteration for blending each upscaled batch. More frames will take longer to generate, but fewer frames will make the stitched parts more obvious. 16 is a good middle ground.\n\n### Save Image\n\nSet Save Image Sequence to True if you have memory issues, e.g. with long 4K sequences. Activate it to save the upscaled output in between sampling iterations."
+      ],
+      "color": "#ffc14b",
+      "bgcolor": "#f1ad37",
+      "shape": 1
+    },
+    {
+      "id": 70,
+      "type": "LoraLoaderModelOnly",
+      "pos": [
+        140,
+        -270
+      ],
+      "size": [
+        380,
+        82
+      ],
+      "flags": {},
+      "order": 76,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 723
+        }
+      ],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            128
+          ]
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.46",
+        "Node name for S&R": "LoraLoaderModelOnly",
+        "enableTabs": false,
+        "tabWidth": 65,
+        "tabXOffset": 10,
+        "hasSecondTab": false,
+        "secondTabText": "Send Back",
+        "secondTabOffset": 80,
+        "secondTabWidth": 65,
+        "ue_properties": {
+          "version": "7.1",
+          "widget_ue_connectable": {},
+          "input_ue_unconnectable": {}
+        }
+      },
+      "widgets_values": [
+        "wan\\Wan2.2-T2V-A14B-4steps-lora-rank64-Seko-V2.0\\low_noise_model.safetensors",
+        1
+      ],
+      "color": "#f1f1f1",
+      "bgcolor": "#dddddd",
+      "shape": 1
+    },
+    {
+      "id": 357,
+      "type": "MarkdownNote",
+      "pos": [
+        -340,
+        -440
+      ],
+      "size": [
+        350,
+        110
+      ],
+      "flags": {},
+      "order": 63,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Model download links",
+      "properties": {
+        "ue_properties": {
+          "version": "7.0.1",
+          "widget_ue_connectable": {}
+        }
+      },
+      "widgets_values": [
+        "Wan2.2 T2V Low Noise GGUF Model:\n\n[https://huggingface.co/bullerwins/Wan2.2-T2V-A14B-GGUF/tree/main](https://huggingface.co/bullerwins/Wan2.2-T2V-A14B-GGUF/tree/main)\n\nChoose a compatible **low noise** model for your VRAM\n\n📁 ComfyUI/models/unet"
+      ],
+      "color": "#ffc14b",
+      "bgcolor": "#f1ad37",
+      "shape": 1
+    },
+    {
+      "id": 330,
+      "type": "MarkdownNote",
+      "pos": [
+        -340,
+        -290
+      ],
+      "size": [
+        350,
+        110
+      ],
+      "flags": {},
+      "order": 64,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Model download links",
+      "properties": {
+        "ue_properties": {
+          "version": "7.0.1",
+          "widget_ue_connectable": {}
+        }
+      },
+      "widgets_values": [
+        "Wan2.2-T2V-A14B-4steps-lora-rank64-Seko-V2.0/low_noise_model.safetensors:\n\n[https://huggingface.co/lightx2v/Wan2.2-Lightning/blob/main/Wan2.2-T2V-A14B-4steps-lora-rank64-Seko-V2.0/low_noise_model.safetensors](https://huggingface.co/lightx2v/Wan2.2-Lightning/blob/main/Wan2.2-T2V-A14B-4steps-lora-rank64-Seko-V2.0/low_noise_model.safetensors)\n\n📁 ComfyUI/models/loras"
+      ],
+      "color": "#ffc14b",
+      "bgcolor": "#f1ad37",
+      "shape": 1
+    },
+    {
+      "id": 421,
+      "type": "ImageAddNoise",
+      "pos": [
+        1980,
+        -40
+      ],
+      "size": [
+        270,
+        106
+      ],
+      "flags": {},
+      "order": 102,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "image",
+          "type": "IMAGE",
+          "link": 686
+        }
+      ],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            688
+          ]
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.59",
+        "Node name for S&R": "ImageAddNoise",
+        "enableTabs": false,
+        "tabWidth": 65,
+        "tabXOffset": 10,
+        "hasSecondTab": false,
+        "secondTabText": "Send Back",
+        "secondTabOffset": 80,
+        "secondTabWidth": 65,
+        "ue_properties": {
+          "widget_ue_connectable": {},
+          "input_ue_unconnectable": {},
+          "version": "7.2.2"
+        }
+      },
+      "widgets_values": [
+        0,
+        "fixed",
+        0.01
+      ],
+      "shape": 1
+    },
+    {
+      "id": 451,
+      "type": "Label (rgthree)",
+      "pos": [
+        1960,
+        -118.7064588590432
+      ],
+      "size": [
+        340.2833251953125,
+        15
+      ],
+      "flags": {
+        "allow_interaction": true
+      },
+      "order": 65,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "The nightly version of comfyui_essentials may be required.",
+      "properties": {
+        "fontSize": 13,
+        "fontFamily": "Arial",
+        "fontColor": "Black",
+        "textAlign": "left",
+        "backgroundColor": "Orange",
+        "padding": 1,
+        "borderRadius": 0,
+        "angle": 0,
+        "enableTabs": false,
+        "tabWidth": 65,
+        "tabXOffset": 10,
+        "hasSecondTab": false,
+        "secondTabText": "Send Back",
+        "secondTabOffset": 80,
+        "secondTabWidth": 65,
+        "ue_properties": {
+          "version": "7.0.1",
+          "widget_ue_connectable": {}
+        }
+      },
+      "color": "#fff0",
+      "bgcolor": "#fff0",
+      "shape": 1
+    },
+    {
+      "id": 420,
+      "type": "ImageSmartSharpen+",
+      "pos": [
+        1980,
+        -250
+      ],
+      "size": [
+        270,
+        130
+      ],
+      "flags": {},
+      "order": 97,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "image",
+          "type": "IMAGE",
+          "link": 687
+        }
+      ],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            686
+          ]
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfyui_essentials",
+        "ver": "9d9f4bedfc9f0321c19faf71855e228c93bd0dc9",
+        "Node name for S&R": "ImageSmartSharpen+",
+        "enableTabs": false,
+        "tabWidth": 65,
+        "tabXOffset": 10,
+        "hasSecondTab": false,
+        "secondTabText": "Send Back",
+        "secondTabOffset": 80,
+        "secondTabWidth": 65,
+        "ue_properties": {
+          "widget_ue_connectable": {},
+          "input_ue_unconnectable": {},
+          "version": "7.2.2"
+        }
+      },
+      "widgets_values": [
+        5,
+        0.75,
+        1.5,
+        0.5
+      ],
+      "shape": 1
+    },
+    {
       "id": 440,
       "type": "3ed84f91-ec12-4881-a8e3-1d2fc355c673",
       "pos": [
@@ -4467,9 +5237,73 @@
         322
       ],
       "flags": {},
-      "order": 47,
+      "order": 66,
       "mode": 0,
-      "inputs": [],
+      "inputs": [
+        {
+          "label": "Target Resolution Width",
+          "name": "value",
+          "type": "INT",
+          "widget": {
+            "name": "value"
+          },
+          "link": null
+        },
+        {
+          "label": "Target Resolution Height",
+          "name": "value_1",
+          "type": "INT",
+          "widget": {
+            "name": "value_1"
+          },
+          "link": null
+        },
+        {
+          "label": "Enable for High Quality",
+          "name": "boolean",
+          "type": "BOOLEAN",
+          "widget": {
+            "name": "boolean"
+          },
+          "link": null
+        },
+        {
+          "label": "Creativity",
+          "name": "value_2",
+          "type": "FLOAT",
+          "widget": {
+            "name": "value_2"
+          },
+          "link": null
+        },
+        {
+          "label": "Frames per Iteration",
+          "name": "value_3",
+          "type": "INT",
+          "widget": {
+            "name": "value_3"
+          },
+          "link": null
+        },
+        {
+          "label": "Overlap Frames",
+          "name": "value_4",
+          "type": "INT",
+          "widget": {
+            "name": "value_4"
+          },
+          "link": null
+        },
+        {
+          "label": "Save Image Sequence?",
+          "name": "value_5",
+          "type": "BOOLEAN",
+          "widget": {
+            "name": "value_5"
+          },
+          "link": null
+        }
+      ],
       "outputs": [
         {
           "label": "width",
@@ -4559,15 +5393,15 @@
             "value_5"
           ]
         ],
+        "cnr_id": "comfy-core",
+        "ver": "0.3.66",
         "enableTabs": false,
         "tabWidth": 65,
         "tabXOffset": 10,
         "hasSecondTab": false,
         "secondTabText": "Send Back",
         "secondTabOffset": 80,
-        "secondTabWidth": 65,
-        "cnr_id": "comfy-core",
-        "ver": "0.3.66"
+        "secondTabWidth": 65
       },
       "widgets_values": [
         2048,
@@ -4580,726 +5414,6 @@
       ],
       "color": "#eaeaea",
       "bgcolor": "#d6d6d6",
-      "shape": 1
-    },
-    {
-      "id": 448,
-      "type": "MarkdownNote",
-      "pos": [
-        640,
-        530
-      ],
-      "size": [
-        340,
-        110
-      ],
-      "flags": {},
-      "order": 48,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Tip:",
-      "properties": {
-        "ue_properties": {
-          "version": "7.0.1",
-          "widget_ue_connectable": {}
-        }
-      },
-      "widgets_values": [
-        "Always set the sample count to a multiple of 4 + 1 (e.g. 81, 85, 89, 93 …).\nThis is required because WAN Video only processes frame batches in that pattern.\n\nThis is relevant for Frame Load Cap and Frames per Iteration, as mismatched values can cause glitchy frames."
-      ],
-      "color": "#ffc14b",
-      "bgcolor": "#f1ad37",
-      "shape": 1
-    },
-    {
-      "id": 311,
-      "type": "Label (rgthree)",
-      "pos": [
-        191.8162132352678,
-        -839.5536085380509
-      ],
-      "size": [
-        54.78333282470703,
-        17
-      ],
-      "flags": {
-        "allow_interaction": true
-      },
-      "order": 49,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Prompt",
-      "properties": {
-        "fontSize": 17,
-        "fontFamily": "Arial",
-        "fontColor": "#ffffff",
-        "textAlign": "left",
-        "backgroundColor": "transparent",
-        "padding": 0,
-        "borderRadius": 0,
-        "enableTabs": false,
-        "tabWidth": 65,
-        "tabXOffset": 10,
-        "hasSecondTab": false,
-        "secondTabText": "Send Back",
-        "secondTabOffset": 80,
-        "secondTabWidth": 65,
-        "ue_properties": {
-          "version": "7.0.1",
-          "widget_ue_connectable": {}
-        }
-      },
-      "color": "#fff0",
-      "bgcolor": "#fff0",
-      "shape": 1
-    },
-    {
-      "id": 312,
-      "type": "Label (rgthree)",
-      "pos": [
-        192.8367210477678,
-        -799.2982374443009
-      ],
-      "size": [
-        150.21665954589844,
-        17
-      ],
-      "flags": {
-        "allow_interaction": true
-      },
-      "order": 50,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Upscale Generation",
-      "properties": {
-        "fontSize": 17,
-        "fontFamily": "Arial",
-        "fontColor": "#ffffff",
-        "textAlign": "left",
-        "backgroundColor": "transparent",
-        "padding": 0,
-        "borderRadius": 0,
-        "enableTabs": false,
-        "tabWidth": 65,
-        "tabXOffset": 10,
-        "hasSecondTab": false,
-        "secondTabText": "Send Back",
-        "secondTabOffset": 80,
-        "secondTabWidth": 65,
-        "ue_properties": {
-          "version": "7.0.1",
-          "widget_ue_connectable": {}
-        }
-      },
-      "color": "#fff0",
-      "bgcolor": "#fff0",
-      "shape": 1
-    },
-    {
-      "id": 315,
-      "type": "Reroute",
-      "pos": [
-        101.81602250040453,
-        -765.6773878349259
-      ],
-      "size": [
-        75,
-        26
-      ],
-      "flags": {},
-      "order": 51,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": null
-        }
-      ],
-      "outputs": [
-        {
-          "name": "",
-          "type": "*",
-          "links": null
-        }
-      ],
-      "properties": {
-        "showOutputText": false,
-        "horizontal": false,
-        "ue_properties": {
-          "version": "7.0.1",
-          "widget_ue_connectable": {}
-        }
-      },
-      "color": "#ffc14b",
-      "bgcolor": "#f1ad37",
-      "shape": 1
-    },
-    {
-      "id": 449,
-      "type": "Reroute",
-      "pos": [
-        101.38599641887107,
-        -726.3429399081505
-      ],
-      "size": [
-        75,
-        26
-      ],
-      "flags": {},
-      "order": 52,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": null
-        }
-      ],
-      "outputs": [
-        {
-          "name": "",
-          "type": "*",
-          "links": null
-        }
-      ],
-      "properties": {
-        "showOutputText": false,
-        "horizontal": false,
-        "ue_properties": {
-          "version": "7.0.1",
-          "widget_ue_connectable": {}
-        }
-      },
-      "shape": 1
-    },
-    {
-      "id": 313,
-      "type": "Label (rgthree)",
-      "pos": [
-        192.5815940946428,
-        -759.5049024833634
-      ],
-      "size": [
-        125.61666870117188,
-        17
-      ],
-      "flags": {
-        "allow_interaction": true
-      },
-      "order": 53,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Important Notes!",
-      "properties": {
-        "fontSize": 17,
-        "fontFamily": "Arial",
-        "fontColor": "#ffffff",
-        "textAlign": "left",
-        "backgroundColor": "transparent",
-        "padding": 0,
-        "borderRadius": 0,
-        "enableTabs": false,
-        "tabWidth": 65,
-        "tabXOffset": 10,
-        "hasSecondTab": false,
-        "secondTabText": "Send Back",
-        "secondTabOffset": 80,
-        "secondTabWidth": 65,
-        "ue_properties": {
-          "version": "7.0.1",
-          "widget_ue_connectable": {}
-        }
-      },
-      "color": "#fff0",
-      "bgcolor": "#fff0",
-      "shape": 1
-    },
-    {
-      "id": 450,
-      "type": "Label (rgthree)",
-      "pos": [
-        192.95784625016077,
-        -722.2597930769188
-      ],
-      "size": [
-        104.8499984741211,
-        17
-      ],
-      "flags": {
-        "allow_interaction": true
-      },
-      "order": 54,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Batch Creator",
-      "properties": {
-        "fontSize": 17,
-        "fontFamily": "Arial",
-        "fontColor": "#ffffff",
-        "textAlign": "left",
-        "backgroundColor": "transparent",
-        "padding": 0,
-        "borderRadius": 0,
-        "enableTabs": false,
-        "tabWidth": 65,
-        "tabXOffset": 10,
-        "hasSecondTab": false,
-        "secondTabText": "Send Back",
-        "secondTabOffset": 80,
-        "secondTabWidth": 65,
-        "ue_properties": {
-          "version": "7.0.1",
-          "widget_ue_connectable": {}
-        }
-      },
-      "color": "#fff0",
-      "bgcolor": "#fff0",
-      "shape": 1
-    },
-    {
-      "id": 317,
-      "type": "Label (rgthree)",
-      "pos": [
-        40,
-        -530
-      ],
-      "size": [
-        38,
-        38
-      ],
-      "flags": {
-        "allow_interaction": true
-      },
-      "order": 55,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "→",
-      "properties": {
-        "fontSize": 38,
-        "fontFamily": "Arial",
-        "fontColor": "#ffffff",
-        "textAlign": "left",
-        "backgroundColor": "transparent",
-        "padding": 0,
-        "borderRadius": 0,
-        "enableTabs": false,
-        "tabWidth": 65,
-        "tabXOffset": 10,
-        "hasSecondTab": false,
-        "secondTabText": "Send Back",
-        "secondTabOffset": 80,
-        "secondTabWidth": 65,
-        "ue_properties": {
-          "version": "7.0.1",
-          "widget_ue_connectable": {}
-        }
-      },
-      "color": "#fff0",
-      "bgcolor": "#fff0",
-      "shape": 1
-    },
-    {
-      "id": 325,
-      "type": "MarkdownNote",
-      "pos": [
-        -340,
-        -600
-      ],
-      "size": [
-        350,
-        120
-      ],
-      "flags": {},
-      "order": 56,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Model download links",
-      "properties": {
-        "ue_properties": {
-          "version": "7.0.1",
-          "widget_ue_connectable": {}
-        }
-      },
-      "widgets_values": [
-        "wan2.2_t2v_low_noise_14B_fp8_scaled.safetensors:\n\n[https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged/blob/main/split_files/diffusion_models/wan2.2_t2v_low_noise_14B_fp8_scaled.safetensors](https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged/blob/main/split_files/diffusion_models/wan2.2_t2v_low_noise_14B_fp8_scaled.safetensors)\n\n📁 ComfyUI/models/diffusion_models"
-      ],
-      "color": "#ffc14b",
-      "bgcolor": "#f1ad37",
-      "shape": 1
-    },
-    {
-      "id": 357,
-      "type": "MarkdownNote",
-      "pos": [
-        -340,
-        -440
-      ],
-      "size": [
-        350,
-        110
-      ],
-      "flags": {},
-      "order": 57,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Model download links",
-      "properties": {
-        "ue_properties": {
-          "version": "7.0.1",
-          "widget_ue_connectable": {}
-        }
-      },
-      "widgets_values": [
-        "Wan2.2 T2V Low Noise GGUF Model:\n\n[https://huggingface.co/bullerwins/Wan2.2-T2V-A14B-GGUF/tree/main](https://huggingface.co/bullerwins/Wan2.2-T2V-A14B-GGUF/tree/main)\n\nChoose a compatible **low noise** model for your VRAM\n\n📁 ComfyUI/models/unet"
-      ],
-      "color": "#ffc14b",
-      "bgcolor": "#f1ad37",
-      "shape": 1
-    },
-    {
-      "id": 330,
-      "type": "MarkdownNote",
-      "pos": [
-        -340,
-        -290
-      ],
-      "size": [
-        350,
-        110
-      ],
-      "flags": {},
-      "order": 58,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Model download links",
-      "properties": {
-        "ue_properties": {
-          "version": "7.0.1",
-          "widget_ue_connectable": {}
-        }
-      },
-      "widgets_values": [
-        "Wan2.2-T2V-A14B-4steps-lora-250928/low_noise_model.safetensors:\n\n[https://huggingface.co/lightx2v/Wan2.2-Lightning/blob/main/Wan2.2-T2V-A14B-4steps-lora-250928/low_noise_model.safetensors](https://huggingface.co/lightx2v/Wan2.2-Lightning/blob/main/Wan2.2-T2V-A14B-4steps-lora-250928/low_noise_model.safetensors)\n\n📁 ComfyUI/models/loras"
-      ],
-      "color": "#ffc14b",
-      "bgcolor": "#f1ad37",
-      "shape": 1
-    },
-    {
-      "id": 332,
-      "type": "MarkdownNote",
-      "pos": [
-        -340,
-        -140
-      ],
-      "size": [
-        350,
-        90
-      ],
-      "flags": {},
-      "order": 59,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Model download links",
-      "properties": {
-        "ue_properties": {
-          "version": "7.0.1",
-          "widget_ue_connectable": {}
-        }
-      },
-      "widgets_values": [
-        "stock_photography_wan22_LOW_v1.safetensors:\n\n[https://civitai.com/models/1925758?modelVersionId=2179627](https://civitai.com/models/1925758?modelVersionId=2179627)\n\n📁 ComfyUI/models/loras"
-      ],
-      "color": "#ffc14b",
-      "bgcolor": "#f1ad37",
-      "shape": 1
-    },
-    {
-      "id": 329,
-      "type": "MarkdownNote",
-      "pos": [
-        -340,
-        30
-      ],
-      "size": [
-        350,
-        120
-      ],
-      "flags": {},
-      "order": 60,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Model download links",
-      "properties": {
-        "ue_properties": {
-          "version": "7.0.1",
-          "widget_ue_connectable": {}
-        }
-      },
-      "widgets_values": [
-        "umt5_xxl_fp8_e4m3fn_scaled.safetensors:\n\n[https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged/blob/main/split_files/text_encoders/umt5_xxl_fp8_e4m3fn_scaled.safetensors](https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged/blob/main/split_files/text_encoders/umt5_xxl_fp8_e4m3fn_scaled.safetensors)\n\n📁 ComfyUI/models/text_encoders\n"
-      ],
-      "color": "#ffc14b",
-      "bgcolor": "#f1ad37",
-      "shape": 1
-    },
-    {
-      "id": 324,
-      "type": "MarkdownNote",
-      "pos": [
-        -340,
-        230
-      ],
-      "size": [
-        350,
-        110
-      ],
-      "flags": {},
-      "order": 61,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Model download links",
-      "properties": {
-        "ue_properties": {
-          "version": "7.0.1",
-          "widget_ue_connectable": {}
-        }
-      },
-      "widgets_values": [
-        "wan_2.1_vae.safetensors:\n\n[https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged/blob/main/split_files/vae/wan_2.1_vae.safetensors](https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged/blob/main/split_files/vae/wan_2.1_vae.safetensors)\n\n📁 ComfyUI/models/vae"
-      ],
-      "color": "#ffc14b",
-      "bgcolor": "#f1ad37",
-      "shape": 1
-    },
-    {
-      "id": 405,
-      "type": "MarkdownNote",
-      "pos": [
-        -340,
-        400
-      ],
-      "size": [
-        350,
-        110
-      ],
-      "flags": {},
-      "order": 62,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Model download links",
-      "properties": {
-        "ue_properties": {
-          "version": "7.0.1",
-          "widget_ue_connectable": {}
-        }
-      },
-      "widgets_values": [
-        "Download this model via the model manager by searching for:\n\nRealESRGAN_x2.pth"
-      ],
-      "color": "#ffc14b",
-      "bgcolor": "#f1ad37",
-      "shape": 1
-    },
-    {
-      "id": 130,
-      "type": "VHS_LoadVideo",
-      "pos": [
-        640,
-        -550
-      ],
-      "size": [
-        580,
-        639
-      ],
-      "flags": {},
-      "order": 63,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "meta_batch",
-          "shape": 7,
-          "type": "VHS_BatchManager",
-          "link": null
-        },
-        {
-          "name": "vae",
-          "shape": 7,
-          "type": "VAE",
-          "link": null
-        }
-      ],
-      "outputs": [
-        {
-          "name": "IMAGE",
-          "type": "IMAGE",
-          "links": [
-            341,
-            424
-          ]
-        },
-        {
-          "name": "frame_count",
-          "type": "INT",
-          "links": [
-            300
-          ]
-        },
-        {
-          "name": "audio",
-          "type": "AUDIO",
-          "links": null
-        },
-        {
-          "name": "video_info",
-          "type": "VHS_VIDEOINFO",
-          "links": [
-            567
-          ]
-        }
-      ],
-      "properties": {
-        "enableTabs": false,
-        "tabWidth": 65,
-        "tabXOffset": 10,
-        "hasSecondTab": false,
-        "secondTabText": "Send Back",
-        "secondTabOffset": 80,
-        "secondTabWidth": 65,
-        "cnr_id": "comfyui-videohelpersuite",
-        "ver": "1.7.5",
-        "Node name for S&R": "VHS_LoadVideo",
-        "aux_id": "Kosinkadink/ComfyUI-VideoHelperSuite",
-        "ue_properties": {
-          "widget_ue_connectable": {
-            "video": true,
-            "force_rate": true,
-            "custom_width": true,
-            "custom_height": true,
-            "frame_load_cap": true,
-            "skip_first_frames": true,
-            "select_every_nth": true,
-            "format": true
-          },
-          "version": "7.1",
-          "input_ue_unconnectable": {}
-        }
-      },
-      "widgets_values": {
-        "video": "ComfyUI_00016_.mp4",
-        "force_rate": 0,
-        "custom_width": 0,
-        "custom_height": 0,
-        "frame_load_cap": 81,
-        "skip_first_frames": 0,
-        "select_every_nth": 1,
-        "format": "AnimateDiff",
-        "choose video to upload": "image",
-        "videopreview": {
-          "hidden": false,
-          "paused": false,
-          "params": {
-            "filename": "ComfyUI_00016_.mp4",
-            "type": "input",
-            "format": "video/mp4",
-            "force_rate": 0,
-            "custom_width": 0,
-            "custom_height": 0,
-            "frame_load_cap": 81,
-            "skip_first_frames": 0,
-            "select_every_nth": 1
-          }
-        }
-      },
-      "color": "#f1f1f1",
-      "bgcolor": "#dddddd",
-      "shape": 1
-    },
-    {
-      "id": 310,
-      "type": "Label (rgthree)",
-      "pos": [
-        191.8162132352678,
-        -880.2702223075821
-      ],
-      "size": [
-        305.0666809082031,
-        17
-      ],
-      "flags": {
-        "allow_interaction": true
-      },
-      "order": 64,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Input / Output / Model Loaders / Settings",
-      "properties": {
-        "fontSize": 17,
-        "fontFamily": "Arial",
-        "fontColor": "#ffffff",
-        "textAlign": "left",
-        "backgroundColor": "transparent",
-        "padding": 0,
-        "borderRadius": 0,
-        "enableTabs": false,
-        "tabWidth": 65,
-        "tabXOffset": 10,
-        "hasSecondTab": false,
-        "secondTabText": "Send Back",
-        "secondTabOffset": 80,
-        "secondTabWidth": 65,
-        "ue_properties": {
-          "version": "7.0.1",
-          "widget_ue_connectable": {}
-        }
-      },
-      "color": "#fff0",
-      "bgcolor": "#fff0",
-      "shape": 1
-    },
-    {
-      "id": 383,
-      "type": "MarkdownNote",
-      "pos": [
-        -340,
-        -1290
-      ],
-      "size": [
-        350,
-        590
-      ],
-      "flags": {},
-      "order": 65,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Quick Guide",
-      "properties": {
-        "ue_properties": {
-          "version": "7.0.1",
-          "widget_ue_connectable": {}
-        }
-      },
-      "widgets_values": [
-        "## How to Use\n\nSet up everything in the *Input Video & Settings* section.\n\n### Target Resolution\n\nSet the target resolution width and height.\n\n### Enable for High Quality\n\nEnabling this sets the steps of the sampler. False is normal quality with 1 step, and True is high quality with 2 steps, but takes longer to generate.\n\n### Creativity\n\nAdjusts the shift value to manipulate the sigma for the scheduler. A lower value adheres more to the source and is less generative, and a higher value is more generative and can create more details. High values can also create noise artifacts.\n\n---\n\n## Long Video\n\n### Frames per Iteration\n\nWhen the value is lower than your clip length, iterative sampling will activate itself automatically. Here you can control how many frames per iteration are sampled.\n\n### Overlap Frames\n\nSet the number of extra frames generated per iteration for blending each upscaled batch. More frames will take longer to generate, but fewer frames will make the stitched parts more obvious. 16 is a good middle ground.\n\n### Save Image\n\nSet Save Image Sequence to True if you have memory issues, e.g. with long 4K sequences. Activate it to save the upscaled output in between sampling iterations."
-      ],
-      "color": "#ffc14b",
-      "bgcolor": "#f1ad37",
       "shape": 1
     },
     {
@@ -5316,11 +5430,11 @@
       "flags": {
         "allow_interaction": true
       },
-      "order": 66,
+      "order": 67,
       "mode": 0,
       "inputs": [],
       "outputs": [],
-      "title": "EASY VIDEO UPSCALER 1.0",
+      "title": "EASY VIDEO UPSCALER 1.1",
       "properties": {
         "fontSize": 56,
         "fontFamily": "Arial",
@@ -5329,6 +5443,7 @@
         "backgroundColor": "transparent",
         "padding": 0,
         "borderRadius": 0,
+        "angle": 0,
         "enableTabs": false,
         "tabWidth": 65,
         "tabXOffset": 10,
@@ -6310,17 +6425,17 @@
             ],
             "title": "Calc Start Frame",
             "properties": {
+              "cnr_id": "comfyui-custom-scripts",
+              "ver": "1.2.5",
+              "Node name for S&R": "MathExpression|pysssss",
+              "aux_id": "pythongosssss/ComfyUI-Custom-Scripts",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-custom-scripts",
-              "ver": "1.2.5",
-              "Node name for S&R": "MathExpression|pysssss",
-              "aux_id": "pythongosssss/ComfyUI-Custom-Scripts"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               "max(((a*b)-c), 0)"
@@ -6384,17 +6499,17 @@
             ],
             "title": "Add Blendframes to Generation",
             "properties": {
+              "cnr_id": "comfyui-custom-scripts",
+              "ver": "1.2.5",
+              "Node name for S&R": "MathExpression|pysssss",
+              "aux_id": "pythongosssss/ComfyUI-Custom-Scripts",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-custom-scripts",
-              "ver": "1.2.5",
-              "Node name for S&R": "MathExpression|pysssss",
-              "aux_id": "pythongosssss/ComfyUI-Custom-Scripts"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               "a+c"
@@ -6458,17 +6573,17 @@
               }
             ],
             "properties": {
+              "cnr_id": "comfyui-custom-scripts",
+              "ver": "1.2.5",
+              "Node name for S&R": "MathExpression|pysssss",
+              "aux_id": "pythongosssss/ComfyUI-Custom-Scripts",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-custom-scripts",
-              "ver": "1.2.5",
-              "Node name for S&R": "MathExpression|pysssss",
-              "aux_id": "pythongosssss/ComfyUI-Custom-Scripts"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               "ceil(a/c)"
@@ -6493,12 +6608,14 @@
               {
                 "localized_name": "a",
                 "name": "a",
+                "shape": 7,
                 "type": "*",
                 "link": 434
               },
               {
                 "localized_name": "b",
                 "name": "b",
+                "shape": 7,
                 "type": "*",
                 "link": 435
               }
@@ -6515,17 +6632,17 @@
             ],
             "title": "Compare - Check if first Batch",
             "properties": {
+              "cnr_id": "comfyui-easy-use",
+              "ver": "1.3.3",
+              "Node name for S&R": "easy compare",
+              "aux_id": "yolain/ComfyUI-Easy-Use",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-easy-use",
-              "ver": "1.3.3",
-              "Node name for S&R": "easy compare",
-              "aux_id": "yolain/ComfyUI-Easy-Use"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               "a == b"
@@ -6561,17 +6678,17 @@
             ],
             "title": "Int 0",
             "properties": {
+              "cnr_id": "comfyui-easy-use",
+              "ver": "1.3.3",
+              "Node name for S&R": "easy int",
+              "aux_id": "yolain/ComfyUI-Easy-Use",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-easy-use",
-              "ver": "1.3.3",
-              "Node name for S&R": "easy int",
-              "aux_id": "yolain/ComfyUI-Easy-Use"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               0
@@ -6626,17 +6743,17 @@
               }
             ],
             "properties": {
+              "cnr_id": "comfyui-easy-use",
+              "ver": "1.3.3",
+              "Node name for S&R": "easy ifElse",
+              "aux_id": "yolain/ComfyUI-Easy-Use",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-easy-use",
-              "ver": "1.3.3",
-              "Node name for S&R": "easy ifElse",
-              "aux_id": "yolain/ComfyUI-Easy-Use"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               false
@@ -6714,17 +6831,17 @@
               }
             ],
             "properties": {
+              "cnr_id": "comfyui-easy-use",
+              "ver": "1.3.0",
+              "Node name for S&R": "easy forLoopStart",
+              "aux_id": "yolain/ComfyUI-Easy-Use",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-easy-use",
-              "ver": "1.3.0",
-              "Node name for S&R": "easy forLoopStart",
-              "aux_id": "yolain/ComfyUI-Easy-Use"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               1
@@ -6784,17 +6901,17 @@
               }
             ],
             "properties": {
+              "cnr_id": "comfyui_essentials",
+              "ver": "9d9f4bedfc9f0321c19faf71855e228c93bd0dc9",
+              "Node name for S&R": "ImageFromBatch+",
+              "aux_id": "cubiq/ComfyUI_essentials",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui_essentials",
-              "ver": "9d9f4bedfc9f0321c19faf71855e228c93bd0dc9",
-              "Node name for S&R": "ImageFromBatch+",
-              "aux_id": "cubiq/ComfyUI_essentials"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               0,
@@ -6841,17 +6958,17 @@
               }
             ],
             "properties": {
+              "cnr_id": "comfyui-easy-use",
+              "ver": "1.3.3",
+              "Node name for S&R": "easy batchAnything",
+              "aux_id": "yolain/ComfyUI-Easy-Use",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-easy-use",
-              "ver": "1.3.3",
-              "Node name for S&R": "easy batchAnything",
-              "aux_id": "yolain/ComfyUI-Easy-Use"
+              "secondTabWidth": 65
             },
             "widgets_values": [],
             "shape": 1
@@ -6885,16 +7002,16 @@
             ],
             "title": "True is false",
             "properties": {
+              "cnr_id": "comfy-core",
+              "ver": "0.3.59",
+              "Node name for S&R": "PrimitiveBoolean",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfy-core",
-              "ver": "0.3.59",
-              "Node name for S&R": "PrimitiveBoolean"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               false
@@ -6930,16 +7047,16 @@
             ],
             "title": "False is true",
             "properties": {
+              "cnr_id": "comfy-core",
+              "ver": "0.3.59",
+              "Node name for S&R": "PrimitiveBoolean",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfy-core",
-              "ver": "0.3.59",
-              "Node name for S&R": "PrimitiveBoolean"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               true
@@ -6995,17 +7112,17 @@
             ],
             "title": "If else - Inverter",
             "properties": {
+              "cnr_id": "comfyui-easy-use",
+              "ver": "1.3.3",
+              "Node name for S&R": "easy ifElse",
+              "aux_id": "yolain/ComfyUI-Easy-Use",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-easy-use",
-              "ver": "1.3.3",
-              "Node name for S&R": "easy ifElse",
-              "aux_id": "yolain/ComfyUI-Easy-Use"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               false
@@ -7049,16 +7166,16 @@
               }
             ],
             "properties": {
+              "cnr_id": "comfy-core",
+              "ver": "0.3.59",
+              "Node name for S&R": "PrimitiveBoolean",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfy-core",
-              "ver": "0.3.59",
-              "Node name for S&R": "PrimitiveBoolean"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               " "
@@ -7104,17 +7221,17 @@
               }
             ],
             "properties": {
+              "cnr_id": "comfyui-custom-scripts",
+              "ver": "f2838ed5e59de4d73cde5c98354b87a8d3200190",
+              "Node name for S&R": "StringFunction|pysssss",
+              "aux_id": "pythongosssss/ComfyUI-Custom-Scripts",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-custom-scripts",
-              "ver": "f2838ed5e59de4d73cde5c98354b87a8d3200190",
-              "Node name for S&R": "StringFunction|pysssss",
-              "aux_id": "pythongosssss/ComfyUI-Custom-Scripts"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               "append",
@@ -7167,17 +7284,17 @@
             ],
             "outputs": [],
             "properties": {
+              "cnr_id": "comfyui-easy-use",
+              "ver": "1.3.3",
+              "Node name for S&R": "easy imageSave",
+              "aux_id": "yolain/ComfyUI-Easy-Use",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-easy-use",
-              "ver": "1.3.3",
-              "Node name for S&R": "easy imageSave",
-              "aux_id": "yolain/ComfyUI-Easy-Use"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               "ComfyUI",
@@ -7237,17 +7354,17 @@
               }
             ],
             "properties": {
+              "cnr_id": "comfyui-easy-use",
+              "ver": "1.3.0",
+              "Node name for S&R": "easy forLoopEnd",
+              "aux_id": "yolain/ComfyUI-Easy-Use",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-easy-use",
-              "ver": "1.3.0",
-              "Node name for S&R": "easy forLoopEnd",
-              "aux_id": "yolain/ComfyUI-Easy-Use"
+              "secondTabWidth": 65
             },
             "widgets_values": [],
             "color": "#223",
@@ -7506,7 +7623,9 @@
             "type": "IMAGE"
           }
         ],
-        "extra": {}
+        "extra": {
+          "workflowRendererVersion": "LG"
+        }
       },
       {
         "id": "1434deb7-2315-427a-8ad1-73b4f683e72d",
@@ -7685,17 +7804,17 @@
             ],
             "title": "0",
             "properties": {
+              "cnr_id": "comfyui-easy-use",
+              "ver": "1.3.3",
+              "Node name for S&R": "easy int",
+              "aux_id": "yolain/ComfyUI-Easy-Use",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-easy-use",
-              "ver": "1.3.3",
-              "Node name for S&R": "easy int",
-              "aux_id": "yolain/ComfyUI-Easy-Use"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               0
@@ -7759,17 +7878,17 @@
             ],
             "title": "Fixing extra frame offsetting",
             "properties": {
+              "cnr_id": "comfyui-custom-scripts",
+              "ver": "1.2.5",
+              "Node name for S&R": "MathExpression|pysssss",
+              "aux_id": "pythongosssss/ComfyUI-Custom-Scripts",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-custom-scripts",
-              "ver": "1.2.5",
-              "Node name for S&R": "MathExpression|pysssss",
-              "aux_id": "pythongosssss/ComfyUI-Custom-Scripts"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               "a*b"
@@ -7802,17 +7921,17 @@
               }
             ],
             "properties": {
+              "cnr_id": "comfyui-easy-use",
+              "ver": "1.3.3",
+              "Node name for S&R": "easy int",
+              "aux_id": "yolain/ComfyUI-Easy-Use",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-easy-use",
-              "ver": "1.3.3",
-              "Node name for S&R": "easy int",
-              "aux_id": "yolain/ComfyUI-Easy-Use"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               0
@@ -7868,17 +7987,17 @@
               }
             ],
             "properties": {
+              "cnr_id": "comfyui-easy-use",
+              "ver": "1.3.3",
+              "Node name for S&R": "easy ifElse",
+              "aux_id": "yolain/ComfyUI-Easy-Use",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-easy-use",
-              "ver": "1.3.3",
-              "Node name for S&R": "easy ifElse",
-              "aux_id": "yolain/ComfyUI-Easy-Use"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               false
@@ -7936,17 +8055,17 @@
               }
             ],
             "properties": {
+              "cnr_id": "comfyui_essentials",
+              "ver": "1.1.0",
+              "Node name for S&R": "ImageFromBatch+",
+              "aux_id": "cubiq/ComfyUI_essentials",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui_essentials",
-              "ver": "1.1.0",
-              "Node name for S&R": "ImageFromBatch+",
-              "aux_id": "cubiq/ComfyUI_essentials"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               10,
@@ -8013,17 +8132,17 @@
             ],
             "title": "One less because we blend inbetween iterations",
             "properties": {
+              "cnr_id": "comfyui-custom-scripts",
+              "ver": "1.2.5",
+              "Node name for S&R": "MathExpression|pysssss",
+              "aux_id": "pythongosssss/ComfyUI-Custom-Scripts",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-custom-scripts",
-              "ver": "1.2.5",
-              "Node name for S&R": "MathExpression|pysssss",
-              "aux_id": "pythongosssss/ComfyUI-Custom-Scripts"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               "a-1"
@@ -8081,17 +8200,17 @@
               }
             ],
             "properties": {
+              "cnr_id": "comfyui_essentials",
+              "ver": "1.1.0",
+              "Node name for S&R": "ImageFromBatch+",
+              "aux_id": "cubiq/ComfyUI_essentials",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui_essentials",
-              "ver": "1.1.0",
-              "Node name for S&R": "ImageFromBatch+",
-              "aux_id": "cubiq/ComfyUI_essentials"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               6,
@@ -8156,17 +8275,17 @@
             ],
             "title": "Start Iteration",
             "properties": {
+              "cnr_id": "comfyui-custom-scripts",
+              "ver": "1.2.5",
+              "Node name for S&R": "MathExpression|pysssss",
+              "aux_id": "pythongosssss/ComfyUI-Custom-Scripts",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-custom-scripts",
-              "ver": "1.2.5",
-              "Node name for S&R": "MathExpression|pysssss",
-              "aux_id": "pythongosssss/ComfyUI-Custom-Scripts"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               "a-b"
@@ -8231,17 +8350,17 @@
             ],
             "title": "Calc Start Frame",
             "properties": {
+              "cnr_id": "comfyui-custom-scripts",
+              "ver": "1.2.5",
+              "Node name for S&R": "MathExpression|pysssss",
+              "aux_id": "pythongosssss/ComfyUI-Custom-Scripts",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-custom-scripts",
-              "ver": "1.2.5",
-              "Node name for S&R": "MathExpression|pysssss",
-              "aux_id": "pythongosssss/ComfyUI-Custom-Scripts"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               "max(((a*b)+c), 0)"
@@ -8305,17 +8424,17 @@
             ],
             "title": "blendframes + offset fix",
             "properties": {
+              "cnr_id": "comfyui-custom-scripts",
+              "ver": "1.2.5",
+              "Node name for S&R": "MathExpression|pysssss",
+              "aux_id": "pythongosssss/ComfyUI-Custom-Scripts",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-custom-scripts",
-              "ver": "1.2.5",
-              "Node name for S&R": "MathExpression|pysssss",
-              "aux_id": "pythongosssss/ComfyUI-Custom-Scripts"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               "-b+c"
@@ -8382,17 +8501,17 @@
             ],
             "title": "Iteration + 1",
             "properties": {
+              "cnr_id": "comfyui-custom-scripts",
+              "ver": "1.2.5",
+              "Node name for S&R": "MathExpression|pysssss",
+              "aux_id": "pythongosssss/ComfyUI-Custom-Scripts",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-custom-scripts",
-              "ver": "1.2.5",
-              "Node name for S&R": "MathExpression|pysssss",
-              "aux_id": "pythongosssss/ComfyUI-Custom-Scripts"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               "a+1"
@@ -8447,17 +8566,17 @@
               }
             ],
             "properties": {
+              "cnr_id": "comfyui-kjnodes",
+              "ver": "1.1.4",
+              "Node name for S&R": "ImageBatchJoinWithTransition",
+              "aux_id": "kijai/ComfyUI-KJNodes",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-kjnodes",
-              "ver": "1.1.4",
-              "Node name for S&R": "ImageBatchJoinWithTransition",
-              "aux_id": "kijai/ComfyUI-KJNodes"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               0,
@@ -8521,17 +8640,17 @@
               }
             ],
             "properties": {
+              "cnr_id": "comfyui_essentials",
+              "ver": "1.1.0",
+              "Node name for S&R": "ImageFromBatch+",
+              "aux_id": "cubiq/ComfyUI_essentials",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui_essentials",
-              "ver": "1.1.0",
-              "Node name for S&R": "ImageFromBatch+",
-              "aux_id": "cubiq/ComfyUI_essentials"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               10,
@@ -8580,16 +8699,17 @@
               }
             ],
             "properties": {
+              "cnr_id": "comfyui-kjnodes",
+              "ver": "1.1.4",
+              "Node name for S&R": "ImageBatchMulti",
+              "aux_id": "kijai/ComfyUI-KJNodes",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-kjnodes",
-              "ver": "1.1.4",
-              "aux_id": "kijai/ComfyUI-KJNodes"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               2,
@@ -8615,12 +8735,14 @@
               {
                 "localized_name": "a",
                 "name": "a",
+                "shape": 7,
                 "type": "*",
                 "link": 598
               },
               {
                 "localized_name": "b",
                 "name": "b",
+                "shape": 7,
                 "type": "*",
                 "link": 549
               }
@@ -8636,17 +8758,17 @@
               }
             ],
             "properties": {
+              "cnr_id": "comfyui-easy-use",
+              "ver": "1.3.3",
+              "Node name for S&R": "easy compare",
+              "aux_id": "yolain/ComfyUI-Easy-Use",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-easy-use",
-              "ver": "1.3.3",
-              "Node name for S&R": "easy compare",
-              "aux_id": "yolain/ComfyUI-Easy-Use"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               "a != b"
@@ -8682,17 +8804,17 @@
             ],
             "title": "1",
             "properties": {
+              "cnr_id": "comfyui-easy-use",
+              "ver": "1.3.3",
+              "Node name for S&R": "easy int",
+              "aux_id": "yolain/ComfyUI-Easy-Use",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-easy-use",
-              "ver": "1.3.3",
-              "Node name for S&R": "easy int",
-              "aux_id": "yolain/ComfyUI-Easy-Use"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               1
@@ -8757,17 +8879,17 @@
             ],
             "title": "Calc Start Frame",
             "properties": {
+              "cnr_id": "comfyui-custom-scripts",
+              "ver": "1.2.5",
+              "Node name for S&R": "MathExpression|pysssss",
+              "aux_id": "pythongosssss/ComfyUI-Custom-Scripts",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-custom-scripts",
-              "ver": "1.2.5",
-              "Node name for S&R": "MathExpression|pysssss",
-              "aux_id": "pythongosssss/ComfyUI-Custom-Scripts"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               "max(((a*b)+c), 0)"
@@ -8832,17 +8954,17 @@
             ],
             "title": "Calc Start Frame",
             "properties": {
+              "cnr_id": "comfyui-custom-scripts",
+              "ver": "1.2.5",
+              "Node name for S&R": "MathExpression|pysssss",
+              "aux_id": "pythongosssss/ComfyUI-Custom-Scripts",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-custom-scripts",
-              "ver": "1.2.5",
-              "Node name for S&R": "MathExpression|pysssss",
-              "aux_id": "pythongosssss/ComfyUI-Custom-Scripts"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               "a-b"
@@ -8922,17 +9044,17 @@
               }
             ],
             "properties": {
+              "cnr_id": "comfyui-easy-use",
+              "ver": "1.3.0",
+              "Node name for S&R": "easy forLoopStart",
+              "aux_id": "yolain/ComfyUI-Easy-Use",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-easy-use",
-              "ver": "1.3.0",
-              "Node name for S&R": "easy forLoopStart",
-              "aux_id": "yolain/ComfyUI-Easy-Use"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               3
@@ -8959,12 +9081,14 @@
               {
                 "localized_name": "a",
                 "name": "a",
+                "shape": 7,
                 "type": "*",
                 "link": 452
               },
               {
                 "localized_name": "b",
                 "name": "b",
+                "shape": 7,
                 "type": "*",
                 "link": 453
               }
@@ -8980,17 +9104,17 @@
               }
             ],
             "properties": {
+              "cnr_id": "comfyui-easy-use",
+              "ver": "1.3.3",
+              "Node name for S&R": "easy compare",
+              "aux_id": "yolain/ComfyUI-Easy-Use",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-easy-use",
-              "ver": "1.3.3",
-              "Node name for S&R": "easy compare",
-              "aux_id": "yolain/ComfyUI-Easy-Use"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               "a == b"
@@ -9045,17 +9169,17 @@
               }
             ],
             "properties": {
+              "cnr_id": "comfyui-easy-use",
+              "ver": "1.3.3",
+              "Node name for S&R": "easy ifElse",
+              "aux_id": "yolain/ComfyUI-Easy-Use",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-easy-use",
-              "ver": "1.3.3",
-              "Node name for S&R": "easy ifElse",
-              "aux_id": "yolain/ComfyUI-Easy-Use"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               false
@@ -9106,17 +9230,17 @@
               }
             ],
             "properties": {
+              "cnr_id": "comfyui_essentials",
+              "ver": "1.1.0",
+              "Node name for S&R": "ImageFromBatch+",
+              "aux_id": "cubiq/ComfyUI_essentials",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui_essentials",
-              "ver": "1.1.0",
-              "Node name for S&R": "ImageFromBatch+",
-              "aux_id": "cubiq/ComfyUI_essentials"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               0,
@@ -9181,17 +9305,17 @@
             ],
             "title": "Calc Start Frame Next Batch with NO blend Frames",
             "properties": {
+              "cnr_id": "comfyui-custom-scripts",
+              "ver": "1.2.5",
+              "Node name for S&R": "MathExpression|pysssss",
+              "aux_id": "pythongosssss/ComfyUI-Custom-Scripts",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-custom-scripts",
-              "ver": "1.2.5",
-              "Node name for S&R": "MathExpression|pysssss",
-              "aux_id": "pythongosssss/ComfyUI-Custom-Scripts"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               "a+b"
@@ -9216,12 +9340,14 @@
               {
                 "localized_name": "a",
                 "name": "a",
+                "shape": 7,
                 "type": "*",
                 "link": 606
               },
               {
                 "localized_name": "b",
                 "name": "b",
+                "shape": 7,
                 "type": "*",
                 "link": 600
               }
@@ -9237,17 +9363,17 @@
               }
             ],
             "properties": {
+              "cnr_id": "comfyui-easy-use",
+              "ver": "1.3.3",
+              "Node name for S&R": "easy compare",
+              "aux_id": "yolain/ComfyUI-Easy-Use",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-easy-use",
-              "ver": "1.3.3",
-              "Node name for S&R": "easy compare",
-              "aux_id": "yolain/ComfyUI-Easy-Use"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               "a != b"
@@ -9296,16 +9422,17 @@
               }
             ],
             "properties": {
+              "cnr_id": "comfyui-kjnodes",
+              "ver": "1.1.4",
+              "Node name for S&R": "ImageBatchMulti",
+              "aux_id": "kijai/ComfyUI-KJNodes",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-kjnodes",
-              "ver": "1.1.4",
-              "aux_id": "kijai/ComfyUI-KJNodes"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               2,
@@ -9362,17 +9489,17 @@
               }
             ],
             "properties": {
+              "cnr_id": "comfyui-easy-use",
+              "ver": "1.3.3",
+              "Node name for S&R": "easy ifElse",
+              "aux_id": "yolain/ComfyUI-Easy-Use",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-easy-use",
-              "ver": "1.3.3",
-              "Node name for S&R": "easy ifElse",
-              "aux_id": "yolain/ComfyUI-Easy-Use"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               false
@@ -9418,17 +9545,17 @@
               }
             ],
             "properties": {
+              "cnr_id": "comfyui-easy-use",
+              "ver": "1.3.3",
+              "Node name for S&R": "easy batchAnything",
+              "aux_id": "yolain/ComfyUI-Easy-Use",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-easy-use",
-              "ver": "1.3.3",
-              "Node name for S&R": "easy batchAnything",
-              "aux_id": "yolain/ComfyUI-Easy-Use"
+              "secondTabWidth": 65
             },
             "widgets_values": [],
             "shape": 1
@@ -9484,17 +9611,17 @@
               }
             ],
             "properties": {
+              "cnr_id": "comfyui-easy-use",
+              "ver": "1.3.0",
+              "Node name for S&R": "easy forLoopEnd",
+              "aux_id": "yolain/ComfyUI-Easy-Use",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-easy-use",
-              "ver": "1.3.0",
-              "Node name for S&R": "easy forLoopEnd",
-              "aux_id": "yolain/ComfyUI-Easy-Use"
+              "secondTabWidth": 65
             },
             "widgets_values": [],
             "color": "#223",
@@ -9550,17 +9677,17 @@
             ],
             "title": "If else - Inverter",
             "properties": {
+              "cnr_id": "comfyui-easy-use",
+              "ver": "1.3.3",
+              "Node name for S&R": "easy ifElse",
+              "aux_id": "yolain/ComfyUI-Easy-Use",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-easy-use",
-              "ver": "1.3.3",
-              "Node name for S&R": "easy ifElse",
-              "aux_id": "yolain/ComfyUI-Easy-Use"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               false
@@ -9595,16 +9722,16 @@
             ],
             "title": "True is false",
             "properties": {
+              "cnr_id": "comfy-core",
+              "ver": "0.3.59",
+              "Node name for S&R": "PrimitiveBoolean",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfy-core",
-              "ver": "0.3.59",
-              "Node name for S&R": "PrimitiveBoolean"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               false
@@ -9639,16 +9766,16 @@
             ],
             "title": "False is true",
             "properties": {
+              "cnr_id": "comfy-core",
+              "ver": "0.3.59",
+              "Node name for S&R": "PrimitiveBoolean",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfy-core",
-              "ver": "0.3.59",
-              "Node name for S&R": "PrimitiveBoolean"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               true
@@ -9688,17 +9815,17 @@
               }
             ],
             "properties": {
+              "cnr_id": "comfyui-kjnodes",
+              "ver": "468fcc86f0b29e79a8510e8239eb15714d6747a6",
+              "Node name for S&R": "ImagePass",
+              "aux_id": "kijai/ComfyUI-KJNodes",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-kjnodes",
-              "ver": "468fcc86f0b29e79a8510e8239eb15714d6747a6",
-              "Node name for S&R": "ImagePass",
-              "aux_id": "kijai/ComfyUI-KJNodes"
+              "secondTabWidth": 65
             },
             "widgets_values": []
           },
@@ -9744,17 +9871,17 @@
             ],
             "outputs": [],
             "properties": {
+              "cnr_id": "comfyui-easy-use",
+              "ver": "1.3.3",
+              "Node name for S&R": "easy imageSave",
+              "aux_id": "yolain/ComfyUI-Easy-Use",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-easy-use",
-              "ver": "1.3.3",
-              "Node name for S&R": "easy imageSave",
-              "aux_id": "yolain/ComfyUI-Easy-Use"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               "ComfyUI",
@@ -9798,17 +9925,17 @@
               }
             ],
             "properties": {
+              "cnr_id": "comfyui-custom-scripts",
+              "ver": "f2838ed5e59de4d73cde5c98354b87a8d3200190",
+              "Node name for S&R": "StringFunction|pysssss",
+              "aux_id": "pythongosssss/ComfyUI-Custom-Scripts",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-custom-scripts",
-              "ver": "f2838ed5e59de4d73cde5c98354b87a8d3200190",
-              "Node name for S&R": "StringFunction|pysssss",
-              "aux_id": "pythongosssss/ComfyUI-Custom-Scripts"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               "append",
@@ -9854,16 +9981,16 @@
               }
             ],
             "properties": {
+              "cnr_id": "comfy-core",
+              "ver": "0.3.59",
+              "Node name for S&R": "PrimitiveBoolean",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfy-core",
-              "ver": "0.3.59",
-              "Node name for S&R": "PrimitiveBoolean"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               4
@@ -10454,7 +10581,9 @@
             "type": "BOOLEAN"
           }
         ],
-        "extra": {}
+        "extra": {
+          "workflowRendererVersion": "LG"
+        }
       },
       {
         "id": "3a5d7d35-9999-4738-b299-aed4dbeffd55",
@@ -10607,17 +10736,17 @@
             ],
             "title": "0",
             "properties": {
+              "cnr_id": "comfyui-easy-use",
+              "ver": "1.3.3",
+              "Node name for S&R": "easy int",
+              "aux_id": "yolain/ComfyUI-Easy-Use",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-easy-use",
-              "ver": "1.3.3",
-              "Node name for S&R": "easy int",
-              "aux_id": "yolain/ComfyUI-Easy-Use"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               0
@@ -10681,17 +10810,17 @@
             ],
             "title": "Fixing extra frame offsetting",
             "properties": {
+              "cnr_id": "comfyui-custom-scripts",
+              "ver": "1.2.5",
+              "Node name for S&R": "MathExpression|pysssss",
+              "aux_id": "pythongosssss/ComfyUI-Custom-Scripts",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-custom-scripts",
-              "ver": "1.2.5",
-              "Node name for S&R": "MathExpression|pysssss",
-              "aux_id": "pythongosssss/ComfyUI-Custom-Scripts"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               "a*b"
@@ -10724,17 +10853,17 @@
               }
             ],
             "properties": {
+              "cnr_id": "comfyui-easy-use",
+              "ver": "1.3.3",
+              "Node name for S&R": "easy int",
+              "aux_id": "yolain/ComfyUI-Easy-Use",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-easy-use",
-              "ver": "1.3.3",
-              "Node name for S&R": "easy int",
-              "aux_id": "yolain/ComfyUI-Easy-Use"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               0
@@ -10790,17 +10919,17 @@
               }
             ],
             "properties": {
+              "cnr_id": "comfyui-easy-use",
+              "ver": "1.3.3",
+              "Node name for S&R": "easy ifElse",
+              "aux_id": "yolain/ComfyUI-Easy-Use",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-easy-use",
-              "ver": "1.3.3",
-              "Node name for S&R": "easy ifElse",
-              "aux_id": "yolain/ComfyUI-Easy-Use"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               false
@@ -10858,17 +10987,17 @@
               }
             ],
             "properties": {
+              "cnr_id": "comfyui_essentials",
+              "ver": "1.1.0",
+              "Node name for S&R": "ImageFromBatch+",
+              "aux_id": "cubiq/ComfyUI_essentials",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui_essentials",
-              "ver": "1.1.0",
-              "Node name for S&R": "ImageFromBatch+",
-              "aux_id": "cubiq/ComfyUI_essentials"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               10,
@@ -10935,17 +11064,17 @@
             ],
             "title": "One less because we blend inbetween iterations",
             "properties": {
+              "cnr_id": "comfyui-custom-scripts",
+              "ver": "1.2.5",
+              "Node name for S&R": "MathExpression|pysssss",
+              "aux_id": "pythongosssss/ComfyUI-Custom-Scripts",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-custom-scripts",
-              "ver": "1.2.5",
-              "Node name for S&R": "MathExpression|pysssss",
-              "aux_id": "pythongosssss/ComfyUI-Custom-Scripts"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               "a-1"
@@ -11003,17 +11132,17 @@
               }
             ],
             "properties": {
+              "cnr_id": "comfyui_essentials",
+              "ver": "1.1.0",
+              "Node name for S&R": "ImageFromBatch+",
+              "aux_id": "cubiq/ComfyUI_essentials",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui_essentials",
-              "ver": "1.1.0",
-              "Node name for S&R": "ImageFromBatch+",
-              "aux_id": "cubiq/ComfyUI_essentials"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               6,
@@ -11078,17 +11207,17 @@
             ],
             "title": "Start Iteration",
             "properties": {
+              "cnr_id": "comfyui-custom-scripts",
+              "ver": "1.2.5",
+              "Node name for S&R": "MathExpression|pysssss",
+              "aux_id": "pythongosssss/ComfyUI-Custom-Scripts",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-custom-scripts",
-              "ver": "1.2.5",
-              "Node name for S&R": "MathExpression|pysssss",
-              "aux_id": "pythongosssss/ComfyUI-Custom-Scripts"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               "a-b"
@@ -11153,17 +11282,17 @@
             ],
             "title": "Calc Start Frame",
             "properties": {
+              "cnr_id": "comfyui-custom-scripts",
+              "ver": "1.2.5",
+              "Node name for S&R": "MathExpression|pysssss",
+              "aux_id": "pythongosssss/ComfyUI-Custom-Scripts",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-custom-scripts",
-              "ver": "1.2.5",
-              "Node name for S&R": "MathExpression|pysssss",
-              "aux_id": "pythongosssss/ComfyUI-Custom-Scripts"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               "max(((a*b)+c), 0)"
@@ -11227,17 +11356,17 @@
             ],
             "title": "blendframes + offset fix",
             "properties": {
+              "cnr_id": "comfyui-custom-scripts",
+              "ver": "1.2.5",
+              "Node name for S&R": "MathExpression|pysssss",
+              "aux_id": "pythongosssss/ComfyUI-Custom-Scripts",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-custom-scripts",
-              "ver": "1.2.5",
-              "Node name for S&R": "MathExpression|pysssss",
-              "aux_id": "pythongosssss/ComfyUI-Custom-Scripts"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               "-b+c"
@@ -11304,17 +11433,17 @@
             ],
             "title": "Iteration + 1",
             "properties": {
+              "cnr_id": "comfyui-custom-scripts",
+              "ver": "1.2.5",
+              "Node name for S&R": "MathExpression|pysssss",
+              "aux_id": "pythongosssss/ComfyUI-Custom-Scripts",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-custom-scripts",
-              "ver": "1.2.5",
-              "Node name for S&R": "MathExpression|pysssss",
-              "aux_id": "pythongosssss/ComfyUI-Custom-Scripts"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               "a+1"
@@ -11369,17 +11498,17 @@
               }
             ],
             "properties": {
+              "cnr_id": "comfyui-kjnodes",
+              "ver": "1.1.4",
+              "Node name for S&R": "ImageBatchJoinWithTransition",
+              "aux_id": "kijai/ComfyUI-KJNodes",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-kjnodes",
-              "ver": "1.1.4",
-              "Node name for S&R": "ImageBatchJoinWithTransition",
-              "aux_id": "kijai/ComfyUI-KJNodes"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               0,
@@ -11443,17 +11572,17 @@
               }
             ],
             "properties": {
+              "cnr_id": "comfyui_essentials",
+              "ver": "1.1.0",
+              "Node name for S&R": "ImageFromBatch+",
+              "aux_id": "cubiq/ComfyUI_essentials",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui_essentials",
-              "ver": "1.1.0",
-              "Node name for S&R": "ImageFromBatch+",
-              "aux_id": "cubiq/ComfyUI_essentials"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               10,
@@ -11502,16 +11631,17 @@
               }
             ],
             "properties": {
+              "cnr_id": "comfyui-kjnodes",
+              "ver": "1.1.4",
+              "Node name for S&R": "ImageBatchMulti",
+              "aux_id": "kijai/ComfyUI-KJNodes",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-kjnodes",
-              "ver": "1.1.4",
-              "aux_id": "kijai/ComfyUI-KJNodes"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               2,
@@ -11537,12 +11667,14 @@
               {
                 "localized_name": "a",
                 "name": "a",
+                "shape": 7,
                 "type": "*",
                 "link": 598
               },
               {
                 "localized_name": "b",
                 "name": "b",
+                "shape": 7,
                 "type": "*",
                 "link": 549
               }
@@ -11558,17 +11690,17 @@
               }
             ],
             "properties": {
+              "cnr_id": "comfyui-easy-use",
+              "ver": "1.3.3",
+              "Node name for S&R": "easy compare",
+              "aux_id": "yolain/ComfyUI-Easy-Use",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-easy-use",
-              "ver": "1.3.3",
-              "Node name for S&R": "easy compare",
-              "aux_id": "yolain/ComfyUI-Easy-Use"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               "a != b"
@@ -11604,17 +11736,17 @@
             ],
             "title": "1",
             "properties": {
+              "cnr_id": "comfyui-easy-use",
+              "ver": "1.3.3",
+              "Node name for S&R": "easy int",
+              "aux_id": "yolain/ComfyUI-Easy-Use",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-easy-use",
-              "ver": "1.3.3",
-              "Node name for S&R": "easy int",
-              "aux_id": "yolain/ComfyUI-Easy-Use"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               1
@@ -11679,17 +11811,17 @@
             ],
             "title": "Calc Start Frame",
             "properties": {
+              "cnr_id": "comfyui-custom-scripts",
+              "ver": "1.2.5",
+              "Node name for S&R": "MathExpression|pysssss",
+              "aux_id": "pythongosssss/ComfyUI-Custom-Scripts",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-custom-scripts",
-              "ver": "1.2.5",
-              "Node name for S&R": "MathExpression|pysssss",
-              "aux_id": "pythongosssss/ComfyUI-Custom-Scripts"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               "max(((a*b)+c), 0)"
@@ -11754,17 +11886,17 @@
             ],
             "title": "Calc Start Frame",
             "properties": {
+              "cnr_id": "comfyui-custom-scripts",
+              "ver": "1.2.5",
+              "Node name for S&R": "MathExpression|pysssss",
+              "aux_id": "pythongosssss/ComfyUI-Custom-Scripts",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-custom-scripts",
-              "ver": "1.2.5",
-              "Node name for S&R": "MathExpression|pysssss",
-              "aux_id": "pythongosssss/ComfyUI-Custom-Scripts"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               "a-b"
@@ -11844,17 +11976,17 @@
               }
             ],
             "properties": {
+              "cnr_id": "comfyui-easy-use",
+              "ver": "1.3.0",
+              "Node name for S&R": "easy forLoopStart",
+              "aux_id": "yolain/ComfyUI-Easy-Use",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-easy-use",
-              "ver": "1.3.0",
-              "Node name for S&R": "easy forLoopStart",
-              "aux_id": "yolain/ComfyUI-Easy-Use"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               3
@@ -11881,12 +12013,14 @@
               {
                 "localized_name": "a",
                 "name": "a",
+                "shape": 7,
                 "type": "*",
                 "link": 452
               },
               {
                 "localized_name": "b",
                 "name": "b",
+                "shape": 7,
                 "type": "*",
                 "link": 453
               }
@@ -11902,17 +12036,17 @@
               }
             ],
             "properties": {
+              "cnr_id": "comfyui-easy-use",
+              "ver": "1.3.3",
+              "Node name for S&R": "easy compare",
+              "aux_id": "yolain/ComfyUI-Easy-Use",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-easy-use",
-              "ver": "1.3.3",
-              "Node name for S&R": "easy compare",
-              "aux_id": "yolain/ComfyUI-Easy-Use"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               "a == b"
@@ -11967,17 +12101,17 @@
               }
             ],
             "properties": {
+              "cnr_id": "comfyui-easy-use",
+              "ver": "1.3.3",
+              "Node name for S&R": "easy ifElse",
+              "aux_id": "yolain/ComfyUI-Easy-Use",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-easy-use",
-              "ver": "1.3.3",
-              "Node name for S&R": "easy ifElse",
-              "aux_id": "yolain/ComfyUI-Easy-Use"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               false
@@ -12028,17 +12162,17 @@
               }
             ],
             "properties": {
+              "cnr_id": "comfyui_essentials",
+              "ver": "1.1.0",
+              "Node name for S&R": "ImageFromBatch+",
+              "aux_id": "cubiq/ComfyUI_essentials",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui_essentials",
-              "ver": "1.1.0",
-              "Node name for S&R": "ImageFromBatch+",
-              "aux_id": "cubiq/ComfyUI_essentials"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               0,
@@ -12103,17 +12237,17 @@
             ],
             "title": "Calc Start Frame Next Batch with NO blend Frames",
             "properties": {
+              "cnr_id": "comfyui-custom-scripts",
+              "ver": "1.2.5",
+              "Node name for S&R": "MathExpression|pysssss",
+              "aux_id": "pythongosssss/ComfyUI-Custom-Scripts",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-custom-scripts",
-              "ver": "1.2.5",
-              "Node name for S&R": "MathExpression|pysssss",
-              "aux_id": "pythongosssss/ComfyUI-Custom-Scripts"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               "a+b"
@@ -12138,12 +12272,14 @@
               {
                 "localized_name": "a",
                 "name": "a",
+                "shape": 7,
                 "type": "*",
                 "link": 606
               },
               {
                 "localized_name": "b",
                 "name": "b",
+                "shape": 7,
                 "type": "*",
                 "link": 600
               }
@@ -12159,17 +12295,17 @@
               }
             ],
             "properties": {
+              "cnr_id": "comfyui-easy-use",
+              "ver": "1.3.3",
+              "Node name for S&R": "easy compare",
+              "aux_id": "yolain/ComfyUI-Easy-Use",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-easy-use",
-              "ver": "1.3.3",
-              "Node name for S&R": "easy compare",
-              "aux_id": "yolain/ComfyUI-Easy-Use"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               "a != b"
@@ -12218,16 +12354,17 @@
               }
             ],
             "properties": {
+              "cnr_id": "comfyui-kjnodes",
+              "ver": "1.1.4",
+              "Node name for S&R": "ImageBatchMulti",
+              "aux_id": "kijai/ComfyUI-KJNodes",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-kjnodes",
-              "ver": "1.1.4",
-              "aux_id": "kijai/ComfyUI-KJNodes"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               2,
@@ -12283,17 +12420,17 @@
               }
             ],
             "properties": {
+              "cnr_id": "comfyui-easy-use",
+              "ver": "1.3.3",
+              "Node name for S&R": "easy ifElse",
+              "aux_id": "yolain/ComfyUI-Easy-Use",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-easy-use",
-              "ver": "1.3.3",
-              "Node name for S&R": "easy ifElse",
-              "aux_id": "yolain/ComfyUI-Easy-Use"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               false
@@ -12339,17 +12476,17 @@
               }
             ],
             "properties": {
+              "cnr_id": "comfyui-easy-use",
+              "ver": "1.3.3",
+              "Node name for S&R": "easy batchAnything",
+              "aux_id": "yolain/ComfyUI-Easy-Use",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-easy-use",
-              "ver": "1.3.3",
-              "Node name for S&R": "easy batchAnything",
-              "aux_id": "yolain/ComfyUI-Easy-Use"
+              "secondTabWidth": 65
             },
             "widgets_values": [],
             "shape": 1
@@ -12405,17 +12542,17 @@
               }
             ],
             "properties": {
+              "cnr_id": "comfyui-easy-use",
+              "ver": "1.3.0",
+              "Node name for S&R": "easy forLoopEnd",
+              "aux_id": "yolain/ComfyUI-Easy-Use",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-easy-use",
-              "ver": "1.3.0",
-              "Node name for S&R": "easy forLoopEnd",
-              "aux_id": "yolain/ComfyUI-Easy-Use"
+              "secondTabWidth": 65
             },
             "widgets_values": [],
             "color": "#223",
@@ -12922,7 +13059,9 @@
             "type": "*"
           }
         ],
-        "extra": {}
+        "extra": {
+          "workflowRendererVersion": "LG"
+        }
       },
       {
         "id": "3ed84f91-ec12-4881-a8e3-1d2fc355c673",
@@ -13181,17 +13320,17 @@
             ],
             "title": "Target Resolution Width",
             "properties": {
+              "cnr_id": "comfyui-easy-use",
+              "ver": "1.3.3",
+              "Node name for S&R": "easy int",
+              "aux_id": "yolain/ComfyUI-Easy-Use",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-easy-use",
-              "ver": "1.3.3",
-              "Node name for S&R": "easy int",
-              "aux_id": "yolain/ComfyUI-Easy-Use"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               2048
@@ -13238,17 +13377,17 @@
             ],
             "title": "Target Resolution Height",
             "properties": {
+              "cnr_id": "comfyui-easy-use",
+              "ver": "1.3.3",
+              "Node name for S&R": "easy int",
+              "aux_id": "yolain/ComfyUI-Easy-Use",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-easy-use",
-              "ver": "1.3.3",
-              "Node name for S&R": "easy int",
-              "aux_id": "yolain/ComfyUI-Easy-Use"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               1152
@@ -13295,17 +13434,17 @@
             ],
             "title": "Frames per Iteration",
             "properties": {
+              "cnr_id": "comfyui-easy-use",
+              "ver": "1.3.3",
+              "Node name for S&R": "easy int",
+              "aux_id": "yolain/ComfyUI-Easy-Use",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-easy-use",
-              "ver": "1.3.3",
-              "Node name for S&R": "easy int",
-              "aux_id": "yolain/ComfyUI-Easy-Use"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               81
@@ -13352,16 +13491,16 @@
             ],
             "title": "Save Image Sequence?",
             "properties": {
+              "cnr_id": "comfyui-easy-use",
+              "ver": "1.3.3",
+              "Node name for S&R": "easy boolean",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-easy-use",
-              "ver": "1.3.3",
-              "Node name for S&R": "easy boolean"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               false
@@ -13408,17 +13547,17 @@
             ],
             "title": "Overlap Frames Amount",
             "properties": {
+              "cnr_id": "comfyui-easy-use",
+              "ver": "1.3.3",
+              "Node name for S&R": "easy int",
+              "aux_id": "yolain/ComfyUI-Easy-Use",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-easy-use",
-              "ver": "1.3.3",
-              "Node name for S&R": "easy int",
-              "aux_id": "yolain/ComfyUI-Easy-Use"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               16
@@ -13475,16 +13614,16 @@
               }
             ],
             "properties": {
+              "cnr_id": "comfyui-easy-use",
+              "ver": "8ecc929cd41cf0f7ef6fcc45d4bbc5729c6f287f",
+              "Node name for S&R": "easy ifElse",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-easy-use",
-              "ver": "8ecc929cd41cf0f7ef6fcc45d4bbc5729c6f287f",
-              "Node name for S&R": "easy ifElse"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               true
@@ -13517,17 +13656,17 @@
             ],
             "title": "Step Value",
             "properties": {
+              "cnr_id": "comfyui-easy-use",
+              "ver": "1.3.3",
+              "Node name for S&R": "easy int",
+              "aux_id": "yolain/ComfyUI-Easy-Use",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-easy-use",
-              "ver": "1.3.3",
-              "Node name for S&R": "easy int",
-              "aux_id": "yolain/ComfyUI-Easy-Use"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               2
@@ -13563,17 +13702,17 @@
             ],
             "title": "Step Value",
             "properties": {
+              "cnr_id": "comfyui-easy-use",
+              "ver": "1.3.3",
+              "Node name for S&R": "easy int",
+              "aux_id": "yolain/ComfyUI-Easy-Use",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui-easy-use",
-              "ver": "1.3.3",
-              "Node name for S&R": "easy int",
-              "aux_id": "yolain/ComfyUI-Easy-Use"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               1
@@ -13606,16 +13745,16 @@
             ],
             "outputs": [],
             "properties": {
+              "cnr_id": "comfy-core",
+              "ver": "0.3.66",
+              "Node name for S&R": "PreviewAny",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfy-core",
-              "ver": "0.3.66",
-              "Node name for S&R": "PreviewAny"
+              "secondTabWidth": 65
             },
             "widgets_values": []
           },
@@ -13664,16 +13803,16 @@
             ],
             "title": "Creativity Slider",
             "properties": {
+              "cnr_id": "comfyui_essentials",
+              "ver": "9d9f4bedfc9f0321c19faf71855e228c93bd0dc9",
+              "Node name for S&R": "SimpleMathSlider+",
               "enableTabs": false,
               "tabWidth": 65,
               "tabXOffset": 10,
               "hasSecondTab": false,
               "secondTabText": "Send Back",
               "secondTabOffset": 80,
-              "secondTabWidth": 65,
-              "cnr_id": "comfyui_essentials",
-              "ver": "9d9f4bedfc9f0321c19faf71855e228c93bd0dc9",
-              "Node name for S&R": "SimpleMathSlider+"
+              "secondTabWidth": 65
             },
             "widgets_values": [
               0.25,
@@ -13823,26 +13962,29 @@
             "type": "*"
           }
         ],
-        "extra": {}
+        "extra": {
+          "workflowRendererVersion": "LG"
+        }
       }
     ]
   },
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.6557157015644464,
+      "scale": 0.7934159988929826,
       "offset": [
-        -517.6745756791859,
-        1258.2673961981984
+        982.8881892354786,
+        1335.996879692244
       ]
     },
-    "frontendVersion": "1.30.6",
+    "frontendVersion": "1.33.13",
     "ue_links": [],
     "links_added_by_ue": [],
-    "VHS_latentpreview": true,
+    "VHS_latentpreview": false,
     "VHS_latentpreviewrate": 0,
     "VHS_MetadataImage": true,
-    "VHS_KeepIntermediate": true
+    "VHS_KeepIntermediate": true,
+    "workflowRendererVersion": "LG"
   },
   "version": 0.4
 }
